@@ -321,27 +321,6 @@ export default function KaoyanDashboard() {
                       </div>
                     </div>
                   )}
-
-                  <div className="grid grid-cols-1 xl:grid-cols-2 gap-4 md:gap-8">
-                    <div className="group p-6 md:p-8 bg-[#002147]/[0.02] rounded-2xl md:rounded-[2rem] border border-slate-100 hover:border-[#B89323]/20 transition-colors">
-                      <div className="flex items-center gap-2 md:gap-3 mb-3 md:mb-4">
-                        <div className="w-6 h-6 md:w-8 md:h-8 rounded-full bg-[#002147] text-white flex items-center justify-center text-[10px] md:text-xs">01</div>
-                        <h5 className="text-xs md:text-sm font-black uppercase tracking-widest">Academic Strategy</h5>
-                      </div>
-                      <p className="text-slate-500 text-xs md:text-sm leading-relaxed font-light">
-                        Recognized as a <span className="text-[#002147] font-semibold">Tier-1 Core Term</span>. Its presence across {selectedWord.tags.join(' & ')} indicates a fundamental concept that frequently anchors complex arguments in academic passages.
-                      </p>
-                    </div>
-                    <div className="group p-6 md:p-8 bg-[#002147]/[0.02] rounded-2xl md:rounded-[2rem] border border-slate-100 hover:border-[#B89323]/20 transition-colors">
-                      <div className="flex items-center gap-2 md:gap-3 mb-3 md:mb-4">
-                        <div className="w-6 h-6 md:w-8 md:h-8 rounded-full bg-[#B89323] text-white flex items-center justify-center text-[10px] md:text-xs">02</div>
-                        <h5 className="text-xs md:text-sm font-black uppercase tracking-widest">Usage Insight</h5>
-                      </div>
-                      <p className="text-slate-500 text-xs md:text-sm leading-relaxed font-light">
-                        With a peak frequency of <span className="text-[#002147] font-semibold">{Math.max(...Object.values(selectedWord.yearly))}</span> in a single year, this word often defines the thematic scope of the exam&apos;s most challenging reading sections.
-                      </p>
-                    </div>
-                  </div>
                 </motion.div>
               ) : (
                 <div className="h-full flex flex-col items-center justify-center text-slate-200 min-h-[400px]">
