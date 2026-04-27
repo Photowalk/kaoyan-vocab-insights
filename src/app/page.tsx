@@ -99,10 +99,6 @@ export default function KaoyanDashboard() {
               <p className="text-[10px] uppercase tracking-widest text-slate-400 mb-1">Lexicon Depth</p>
               <p className="text-2xl md:text-3xl font-serif font-bold italic">1.0k+</p>
             </div>
-            <div className="h-10 w-[1px] bg-slate-100 hidden sm:block" />
-            <div className="px-5 py-2.5 md:px-6 md:py-3 bg-[#002147] text-white rounded-full text-xs md:text-sm font-medium shadow-xl shadow-blue-900/10">
-              Data Driven
-            </div>
           </div>
         </header>
 
@@ -245,8 +241,8 @@ export default function KaoyanDashboard() {
                       </div>
                     </div>
                     
-                    <div className="h-[200px] md:h-[300px] w-full -ml-4 md:-ml-8" style={{ touchAction: 'pan-y' }}>
-                      <ResponsiveContainer width="105%" height="100%">
+                    <div className="h-[200px] md:h-[300px] w-full" style={{ touchAction: 'pan-y' }}>
+                      <ResponsiveContainer width="100%" height="100%">
                         <AreaChart data={trendData} margin={{ top: 20, right: 0, left: 0, bottom: -10 }}>
                           <defs>
                             <linearGradient id="colorCount" x1="0" y1="0" x2="0" y2="1">
@@ -261,7 +257,7 @@ export default function KaoyanDashboard() {
                             tickLine={false} 
                             tick={{fontSize: 10, fill: '#cbd5e1', fontWeight: 600}}
                             interval={4}
-                            padding={{ left: 10, right: 10 }}
+                            padding={{ left: 0, right: 0 }}
                           />
                           <YAxis hide domain={[0, 'auto']} />
                           <Tooltip 
