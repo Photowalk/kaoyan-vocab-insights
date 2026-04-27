@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, AreaChart, Area 
 } from 'recharts';
-import { Search, TrendingUp, Award, Clock, BookOpen, ExternalLink, Filter } from 'lucide-react';
+import { Search, TrendingUp, Award, Clock, BookOpen } from 'lucide-react';
 
 interface WordData {
   word: string;
@@ -277,7 +277,7 @@ export default function KaoyanDashboard() {
                         <h5 className="text-sm font-black uppercase tracking-widest">Usage Insight</h5>
                       </div>
                       <p className="text-slate-500 text-sm leading-relaxed font-light">
-                        With a peak frequency of <span className="text-[#002147] font-semibold">{Math.max(...Object.values(selectedWord.yearly))}</span> in a single year, this word often defines the thematic scope of the exam's most challenging reading sections.
+                        With a peak frequency of <span className="text-[#002147] font-semibold">{Math.max(...Object.values(selectedWord.yearly))}</span> in a single year, this word often defines the thematic scope of the exam&apos;s most challenging reading sections.
                       </p>
                     </div>
                   </div>
