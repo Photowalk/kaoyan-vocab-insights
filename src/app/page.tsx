@@ -37,31 +37,38 @@ function DashboardContent() {
   const [data, setData] = useState<WordData[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
+  const [selectedWord, setSelectedWord] = useState<WordData | null>(null);
   const [loading, setLoading] = useState(true);
 
   // Derived state: the source of truth is the URL
   const isMobileDetailOpen = !!queryWord;
-
-  const selectedWord = useMemo(() => {
-    if (data.length === 0) return null;
-    if (queryWord) {
-      const found = data.find(w => w.word === queryWord);
-      if (found) return found;
-    }
-    return data[0];
-  }, [data, queryWord]);
 
   useEffect(() => {
     fetch('/data.json')
       .then(res => res.json())
       .then(d => {
         setData(d);
+        if (queryWord) {
+          const found = d.find((w: WordData) => w.word === queryWord);
+          setSelectedWord(found || d[0]);
+        } else {
+          setSelectedWord(d[0]);
+        }
         setLoading(false);
       });
   }, []);
 
+  // Sync state if URL changes externally (e.g., via back button)
+  useEffect(() => {
+    if (data.length > 0 && queryWord && selectedWord?.word !== queryWord) {
+      const found = data.find((w: WordData) => w.word === queryWord);
+      if (found) setSelectedWord(found);
+    }
+  }, [queryWord, data]);
+
   const handleWordClick = (item: WordData) => {
-    router.push(`/?w=${item.word}`, { scroll: false });
+    setSelectedWord(item); // Instant visual update!
+    router.push(`/?w=${item.word}`, { scroll: false }); // Sync URL in background
   };
 
   const handleBackClick = () => {
@@ -210,13 +217,14 @@ function DashboardContent() {
 
           {/* Right Panel: Detail View */}
           <div className={`lg:col-span-8 pb-6 ${isMobileDetailOpen ? 'block' : 'hidden lg:block'}`}>
-            <AnimatePresence mode="wait">
+            <AnimatePresence mode="popLayout">
               {selectedWord ? (
                 <motion.div 
                   key={selectedWord.word}
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: -10 }}
+                  exit={{ opacity: 0, scale: 0.95, transition: { duration: 0.15 } }}
+                  transition={{ duration: 0.3 }}
                   className="bg-white rounded-3xl md:rounded-[2rem] p-6 sm:p-10 md:p-14 shadow-2xl shadow-slate-200/40 border border-slate-50 relative overflow-hidden"
                 >
                   <div className="absolute top-0 right-0 p-8 md:p-12 opacity-[0.03] pointer-events-none">
