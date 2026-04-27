@@ -247,7 +247,7 @@ export default function KaoyanDashboard() {
                     
                     <div className="h-[200px] md:h-[300px] w-full -ml-4 md:-ml-8" style={{ touchAction: 'pan-y' }}>
                       <ResponsiveContainer width="105%" height="100%">
-                        <AreaChart data={trendData}>
+                        <AreaChart data={trendData} margin={{ top: 20, right: 0, left: 0, bottom: -10 }}>
                           <defs>
                             <linearGradient id="colorCount" x1="0" y1="0" x2="0" y2="1">
                               <stop offset="5%" stopColor={GOLD} stopOpacity={0.4}/>
@@ -295,7 +295,7 @@ export default function KaoyanDashboard() {
                       </ResponsiveContainer>
                     </div>
 
-                    <div className="mt-8 flex flex-wrap gap-2">
+                    <div className="mt-1 md:mt-2 flex flex-wrap gap-2 relative z-10">
                       {Object.entries(selectedWord.yearly)
                         .filter(([, count]) => count > 0)
                         .sort(([yearA], [yearB]) => yearA.localeCompare(yearB))
