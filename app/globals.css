@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --oxford-blue: #002147;
+  --academic-gold: #D4AF37;
+  --paper-white: #FDFDFD;
+}
+
+body {
+  background-color: var(--paper-white);
+  color: var(--oxford-blue);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.serif-title {
+  font-family: 'Playfair Display', serif;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 33, 71, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 33, 71, 0.08);
+  border-color: var(--academic-gold);
+}
