@@ -10,6 +10,7 @@ import { Search, TrendingUp, Award, Clock, BookOpen, ChevronLeft, Quote, SearchX
 
 interface WordData {
   word: string;
+  translation?: string;
   count: number;
   tags: string[];
   yearly: Record<string, number>;
@@ -186,7 +187,10 @@ function DashboardContent() {
                       className={`p-4 md:p-5 rounded-2xl cursor-pointer transition-all duration-300 flex items-center justify-between group ${selectedWord?.word === item.word ? 'bg-white shadow-xl md:shadow-2xl shadow-slate-200 border border-[#B89323]/30 ring-1 ring-[#B89323]/10' : 'hover:bg-white hover:shadow-xl hover:shadow-slate-100 border border-transparent'}`}
                     >
                       <div className="space-y-1.5 md:space-y-2">
-                        <h3 className={`text-base md:text-lg font-bold tracking-tight transition-colors ${selectedWord?.word === item.word ? 'text-[#002147]' : 'text-slate-600 group-hover:text-[#002147]'}`}>{item.word}</h3>
+                        <div className="flex flex-col">
+                          <h3 className={`text-base md:text-lg font-bold tracking-tight transition-colors ${selectedWord?.word === item.word ? 'text-[#002147]' : 'text-slate-600 group-hover:text-[#002147]'}`}>{item.word}</h3>
+                          {item.translation && <p className="text-[10px] md:text-[11px] text-slate-400 truncate max-w-[150px] md:max-w-[200px] mt-0.5 font-medium">{item.translation}</p>}
+                        </div>
                         <div className="flex flex-wrap gap-1">
                           {item.tags.map(tag => (
                             <span key={tag} className={`text-[8px] md:text-[9px] px-1.5 md:px-2 py-0.5 rounded-md font-bold uppercase tracking-tighter border ${tagColors[tag] || tagColors['其他']}`}>
@@ -238,7 +242,12 @@ function DashboardContent() {
                         <Award className="w-3 h-3 md:w-4 md:h-4" />
                         <span className="text-[10px] md:text-xs font-black uppercase tracking-widest">Mastery Candidate</span>
                       </div>
-                      <h2 className="text-5xl sm:text-6xl md:text-7xl font-serif font-black capitalize tracking-tighter text-[#002147]">{selectedWord.word}</h2>
+                      <div className="flex flex-col gap-1 md:gap-3">
+                        <h2 className="text-5xl sm:text-6xl md:text-7xl font-serif font-black capitalize tracking-tighter text-[#002147] leading-none">{selectedWord.word}</h2>
+                        {selectedWord.translation && (
+                          <p className="text-lg md:text-2xl text-[#002147]/60 font-medium tracking-wide">{selectedWord.translation}</p>
+                        )}
+                      </div>
                       <div className="flex flex-wrap gap-2 md:gap-3">
                         {selectedWord.tags.map(tag => (
                           <div key={tag} className={`flex items-center gap-2 px-3 md:px-4 py-1 md:py-1.5 rounded-full border shadow-sm ${tagColors[tag] || tagColors['其他']}`}>
