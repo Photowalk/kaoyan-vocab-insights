@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useMemo, Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useRouter, useSearchParams } from 'next/navigation';
+import Link from 'next/link';
 import { 
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, AreaChart, Area 
 } from 'recharts';
@@ -37,23 +38,19 @@ function DashboardContent() {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [selectedWord, setSelectedWord] = useState<WordData | null>(null);
-  const [isMobileDetailOpen, setIsMobileDetailOpen] = useState(false);
   const [loading, setLoading] = useState(true);
+
+  // Derived state: the source of truth is the URL
+  const isMobileDetailOpen = !!queryWord;
 
   useEffect(() => {
     fetch('/data.json')
       .then(res => res.json())
       .then(d => {
         setData(d);
-        // If a word is specified in the URL, select it and open the detail view
         if (queryWord) {
           const found = d.find((w: WordData) => w.word === queryWord);
-          if (found) {
-            setSelectedWord(found);
-            setIsMobileDetailOpen(true);
-          } else {
-            setSelectedWord(d[0]);
-          }
+          if (found) setSelectedWord(found);
         } else {
           setSelectedWord(d[0]);
         }
@@ -62,16 +59,14 @@ function DashboardContent() {
   }, [queryWord]);
 
   const handleWordClick = (item: WordData) => {
-    // Push state to history instead of just changing local state
-    router.push(`/?w=${item.word}`);
+    router.push(`/?w=${item.word}`, { scroll: false });
   };
 
   const handleBackClick = () => {
-    // Navigate back to the list by removing the word query param or going back in history
     if (window.history.length > 2) {
       router.back();
     } else {
-      router.push('/');
+      router.push('/', { scroll: false });
     }
   };
 
@@ -117,9 +112,11 @@ function DashboardContent() {
         {/* Header */}
         <header className="flex-none flex flex-col md:flex-row md:items-center justify-between gap-4 md:gap-8 mb-6 md:mb-10 border-b border-slate-100 pb-6 md:pb-8">
           <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }}>
-            <h1 className="text-4xl md:text-5xl font-serif font-black mb-2 md:mb-3 tracking-tight">
-              Kaoyan <span className="text-[#B89323]">Lexicon</span>
-            </h1>
+            <Link href="/" className="group block">
+              <h1 className="text-4xl md:text-5xl font-serif font-black mb-2 md:mb-3 tracking-tight transition-opacity group-hover:opacity-70">
+                Kaoyan <span className="text-[#B89323]">Lexicon</span>
+              </h1>
+            </Link>
             <div className="flex items-center gap-3 text-slate-400">
               <span className="w-8 h-[1px] bg-slate-200 hidden sm:block" />
               <p className="text-xs md:text-sm font-light tracking-[0.1em] uppercase">1997 – 2025 Analysis</p>
