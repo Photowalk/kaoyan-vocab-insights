@@ -165,7 +165,7 @@ export default function KaoyanDashboard() {
                       </div>
                     </div>
                     <div className="text-right">
-                      <p className="text-xl md:text-2xl font-black font-serif text-[#002147]/10 group-hover:text-[#D4AF37]/20 transition-colors leading-none">{item.count}</p>
+                      <p className="text-2xl md:text-3xl font-black font-serif text-[#002147]/80 group-hover:text-[#D4AF37] transition-colors leading-none">{item.count}</p>
                     </div>
                   </motion.div>
                 ))}
