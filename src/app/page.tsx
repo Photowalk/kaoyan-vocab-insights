@@ -257,7 +257,8 @@ export default function KaoyanDashboard() {
                             contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 25px 50px -12px rgb(0 0 0 / 0.15)', padding: '12px' }}
                             labelStyle={{ fontSize: '11px', fontWeight: 800, color: '#94a3b8', marginBottom: '4px' }}
                             itemStyle={{ color: '#002147', fontWeight: 900, fontSize: '16px' }}
-                            formatter={(value: number) => [`${value} occurrences`, 'Frequency']}
+                            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                            formatter={(value: any) => [`${value ?? 0} occurrences`, 'Frequency']}
                           />
                           <Area 
                             type="monotone" 
