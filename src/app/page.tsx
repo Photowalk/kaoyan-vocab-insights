@@ -37,26 +37,28 @@ function DashboardContent() {
   const [data, setData] = useState<WordData[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
-  const [selectedWord, setSelectedWord] = useState<WordData | null>(null);
   const [loading, setLoading] = useState(true);
 
   // Derived state: the source of truth is the URL
   const isMobileDetailOpen = !!queryWord;
+
+  const selectedWord = useMemo(() => {
+    if (data.length === 0) return null;
+    if (queryWord) {
+      const found = data.find(w => w.word === queryWord);
+      if (found) return found;
+    }
+    return data[0];
+  }, [data, queryWord]);
 
   useEffect(() => {
     fetch('/data.json')
       .then(res => res.json())
       .then(d => {
         setData(d);
-        if (queryWord) {
-          const found = d.find((w: WordData) => w.word === queryWord);
-          if (found) setSelectedWord(found);
-        } else {
-          setSelectedWord(d[0]);
-        }
         setLoading(false);
       });
-  }, [queryWord]);
+  }, []);
 
   const handleWordClick = (item: WordData) => {
     router.push(`/?w=${item.word}`, { scroll: false });

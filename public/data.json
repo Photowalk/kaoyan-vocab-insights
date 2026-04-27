@@ -1,6 +1,7 @@
 [
   {
     "word": "artifact",
+    "translation": "n.  人工制品， 手工艺品",
     "count": 26,
     "tags": [
       "SAT",
@@ -89,6 +90,7 @@
   },
   {
     "word": "citation",
+    "translation": "n. 引用,表扬",
     "count": 25,
     "tags": [
       "六级",
@@ -177,6 +179,7 @@
   },
   {
     "word": "california",
+    "translation": "n. 加利福尼亚,加州",
     "count": 22,
     "tags": [
       "托福"
@@ -264,6 +267,7 @@
   },
   {
     "word": "shakespeare",
+    "translation": "n. 莎士比亚(1564-1616,英国剧作家,诗人)",
     "count": 20,
     "tags": [
       "托福"
@@ -350,6 +354,7 @@
   },
   {
     "word": "historian",
+    "translation": "n. 历史学家， 史学工作者",
     "count": 19,
     "tags": [
       "六级",
@@ -439,6 +444,7 @@
   },
   {
     "word": "bias",
+    "translation": "n. 偏见；偏爱；斜纹；乖离率 v. 使存偏见 adj. 偏斜的 adv. 偏斜地",
     "count": 19,
     "tags": [
       "SAT",
@@ -528,6 +534,7 @@
   },
   {
     "word": "casino",
+    "translation": "",
     "count": 19,
     "tags": [
       "其他"
@@ -615,6 +622,7 @@
   },
   {
     "word": "washington",
+    "translation": "n. 华盛顿",
     "count": 17,
     "tags": [
       "托福"
@@ -701,6 +709,7 @@
   },
   {
     "word": "victorian",
+    "translation": "adj. 维多利亚女王时代的",
     "count": 17,
     "tags": [
       "托福"
@@ -787,6 +796,7 @@
   },
   {
     "word": "genetic",
+    "translation": "adj. 遗传(学)的 n. [-s]遗传学",
     "count": 15,
     "tags": [
       "SAT",
@@ -877,6 +887,7 @@
   },
   {
     "word": "pursuit",
+    "translation": "n. 追求， 寻求； 追赶， 追逐； 事， 嗜好， 消遣",
     "count": 14,
     "tags": [
       "六级",
@@ -966,6 +977,7 @@
   },
   {
     "word": "infrastructure",
+    "translation": "n. 基础设施；公共建设；下部构造",
     "count": 14,
     "tags": [
       "托福",
@@ -1054,6 +1066,7 @@
   },
   {
     "word": "ethical",
+    "translation": "adj. 伦理的；道德的；凭处方出售的 n. 处方药",
     "count": 13,
     "tags": [
       "SAT",
@@ -1142,6 +1155,7 @@
   },
   {
     "word": "environmental",
+    "translation": "adj.  有关环境的， 自然环境的， 生态环境的； 环境的",
     "count": 13,
     "tags": [
       "六级",
@@ -1230,6 +1244,7 @@
   },
   {
     "word": "legitimate",
+    "translation": "adj. 合法的；正当的；合理的；正统的 v. 使合法；认为正当（等于legitimize）",
     "count": 13,
     "tags": [
       "SAT",
@@ -1320,6 +1335,7 @@
   },
   {
     "word": "intellect",
+    "translation": "n. 智力，理解力；知识分子；思维逻辑领悟力；智力高的人",
     "count": 13,
     "tags": [
       "SAT",
@@ -1409,6 +1425,7 @@
   },
   {
     "word": "archaeologist",
+    "translation": "n.  考古学家",
     "count": 13,
     "tags": [
       "SAT",
@@ -1497,6 +1514,7 @@
   },
   {
     "word": "postal",
+    "translation": "adj. 邮政的，邮局的",
     "count": 13,
     "tags": [
       "六级",
@@ -1585,6 +1603,7 @@
   },
   {
     "word": "texas",
+    "translation": "n. 德克萨斯州(美国州名)",
     "count": 12,
     "tags": [
       "托福"
@@ -1672,6 +1691,7 @@
   },
   {
     "word": "shipper",
+    "translation": "",
     "count": 12,
     "tags": [
       "其他"
@@ -1756,6 +1776,7 @@
   },
   {
     "word": "wholesale",
+    "translation": "n. 批发 adj. 大规模的",
     "count": 12,
     "tags": [
       "托福"
@@ -1842,6 +1863,7 @@
   },
   {
     "word": "kea",
+    "translation": "n. 食肉鹦鹉",
     "count": 12,
     "tags": [
       "托福"
@@ -1927,6 +1949,7 @@
   },
   {
     "word": "broadband",
+    "translation": "",
     "count": 12,
     "tags": [
       "其他"
@@ -2014,6 +2037,7 @@
   },
   {
     "word": "revival",
+    "translation": "n.  复兴， 再流行； 复苏； 苏醒， 复活； 重演",
     "count": 11,
     "tags": [
       "托福"
@@ -2098,6 +2122,7 @@
   },
   {
     "word": "harvard",
+    "translation": "n. 哈佛大学(美国)",
     "count": 11,
     "tags": [
       "托福"
@@ -2181,6 +2206,7 @@
   },
   {
     "word": "anthropology",
+    "translation": "n.  人类学",
     "count": 11,
     "tags": [
       "SAT",
@@ -2267,6 +2293,7 @@
   },
   {
     "word": "anthropologist",
+    "translation": "n. 人类学家；人类学者",
     "count": 11,
     "tags": [
       "SAT",
@@ -2355,6 +2382,7 @@
   },
   {
     "word": "fishery",
+    "translation": "n. 渔业, 水产业",
     "count": 11,
     "tags": [
       "托福"
@@ -2439,6 +2467,7 @@
   },
   {
     "word": "norm",
+    "translation": "n. 标准， 规范； 准则",
     "count": 11,
     "tags": [
       "六级",
@@ -2524,6 +2553,7 @@
   },
   {
     "word": "banker",
+    "translation": "n. 银行家",
     "count": 10,
     "tags": [
       "六级",
@@ -2608,6 +2638,7 @@
   },
   {
     "word": "elite",
+    "translation": "n. [总称] 上层人士， 掌权人物， 实力集团； [总称]出类拔萃的人， 精英",
     "count": 10,
     "tags": [
       "六级",
@@ -2693,6 +2724,7 @@
   },
   {
     "word": "hack",
+    "translation": "v. 黑客攻击",
     "count": 10,
     "tags": [
       "六级"
@@ -2765,6 +2797,7 @@
   },
   {
     "word": "yellowstone",
+    "translation": "n. 黄石国家公园, 黄石河",
     "count": 10,
     "tags": [
       "托福"
@@ -2847,6 +2880,7 @@
   },
   {
     "word": "piracy",
+    "translation": "n.  海盗行为； 抢劫行为； 剽窃行为",
     "count": 10,
     "tags": [
       "托福"
@@ -2928,6 +2962,7 @@
   },
   {
     "word": "geological",
+    "translation": "adj. 地质学的",
     "count": 9,
     "tags": [
       "托福"
@@ -2998,6 +3033,7 @@
   },
   {
     "word": "seller",
+    "translation": "n. 售货者",
     "count": 9,
     "tags": [
       "托福"
@@ -3063,6 +3099,7 @@
   },
   {
     "word": "merger",
+    "translation": "",
     "count": 9,
     "tags": [
       "其他"
@@ -3140,6 +3177,7 @@
   },
   {
     "word": "coherent",
+    "translation": "adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的",
     "count": 9,
     "tags": [
       "SAT",
@@ -3192,6 +3230,7 @@
   },
   {
     "word": "fell",
+    "translation": "adj. 凶猛的；毁灭性的 v. 砍伐；打倒；击倒 n. [林] 一季所伐的木材；折缝；兽皮",
     "count": 8,
     "tags": [
       "六级",
@@ -3271,6 +3310,7 @@
   },
   {
     "word": "embryo",
+    "translation": "n. 胚， 胚胎 <；事物的萌芽期",
     "count": 8,
     "tags": [
       "托福",
@@ -3331,6 +3371,7 @@
   },
   {
     "word": "commodity",
+    "translation": "n. 日用品，商品，物品",
     "count": 8,
     "tags": [
       "SAT",
@@ -3403,6 +3444,7 @@
   },
   {
     "word": "mid",
+    "translation": "",
     "count": 8,
     "tags": [
       "其他"
@@ -3448,6 +3490,7 @@
   },
   {
     "word": "credibility",
+    "translation": "",
     "count": 8,
     "tags": [
       "其他"
@@ -3532,6 +3575,7 @@
   },
   {
     "word": "obscure",
+    "translation": "adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的 v. 使…模糊不清，掩盖；隐藏；使难理解 n. 某种模糊的或不清楚的东西",
     "count": 8,
     "tags": [
       "SAT",
@@ -3614,6 +3658,7 @@
   },
   {
     "word": "immune",
+    "translation": "adj.  免疫的， 有免疫力的； 不受影响的； 免除的， 豁免的",
     "count": 8,
     "tags": [
       "SAT",
@@ -3688,6 +3733,7 @@
   },
   {
     "word": "entrepreneur",
+    "translation": "n. 企业家；承包人；主办者",
     "count": 8,
     "tags": [
       "六级",
@@ -3763,6 +3809,7 @@
   },
   {
     "word": "townsfolk",
+    "translation": "",
     "count": 8,
     "tags": [
       "其他"
@@ -3836,6 +3883,7 @@
   },
   {
     "word": "biomass",
+    "translation": "",
     "count": 8,
     "tags": [
       "其他"
@@ -3901,6 +3949,7 @@
   },
   {
     "word": "skeptical",
+    "translation": "adj. 怀疑的；怀疑论的，不可知论的",
     "count": 8,
     "tags": [
       "六级",
@@ -3966,6 +4015,7 @@
   },
   {
     "word": "literacy",
+    "translation": "n.  有文化， 有教养； 读写能力",
     "count": 8,
     "tags": [
       "SAT",
@@ -4045,6 +4095,7 @@
   },
   {
     "word": "ethic",
+    "translation": "n. 道德准则， 行为准则， 伦理标准；",
     "count": 8,
     "tags": [
       "SAT",
@@ -4122,6 +4173,7 @@
   },
   {
     "word": "spouse",
+    "translation": "n. 配偶 vt. 和…结婚",
     "count": 8,
     "tags": [
       "六级",
@@ -4196,6 +4248,7 @@
   },
   {
     "word": "regulatory",
+    "translation": "adj. 管理的, 控制的",
     "count": 8,
     "tags": [
       "托福"
@@ -4263,6 +4316,7 @@
   },
   {
     "word": "upload",
+    "translation": "",
     "count": 8,
     "tags": [
       "其他"
@@ -4334,6 +4388,7 @@
   },
   {
     "word": "upgrade",
+    "translation": "v. 使升级；提升；改良品种 n. 升级；上升；上坡 adv. 往上 adj. 向上的",
     "count": 8,
     "tags": [
       "六级",
@@ -4412,6 +4467,7 @@
   },
   {
     "word": "indonesia",
+    "translation": "n. 印尼(东南亚岛国)",
     "count": 8,
     "tags": [
       "托福"
@@ -4491,6 +4547,7 @@
   },
   {
     "word": "counterpart",
+    "translation": "n. 与对方地位相当的人， 与另一方作用相当的物",
     "count": 7,
     "tags": [
       "六级",
@@ -4565,6 +4622,7 @@
   },
   {
     "word": "millennium",
+    "translation": "n. 太平盛世,一千年",
     "count": 7,
     "tags": [
       "托福"
@@ -4634,6 +4692,7 @@
   },
   {
     "word": "monopoly",
+    "translation": "n.  垄断， 专卖； 垄断商品， 专卖商品； 独占， 专利",
     "count": 7,
     "tags": [
       "SAT",
@@ -4708,6 +4767,7 @@
   },
   {
     "word": "inequality",
+    "translation": "n. 不平等；不同；不平均",
     "count": 7,
     "tags": [
       "SAT",
@@ -4782,6 +4842,7 @@
   },
   {
     "word": "massachusetts",
+    "translation": "n. 马萨诸塞(美国州名)",
     "count": 7,
     "tags": [
       "托福"
@@ -4857,6 +4918,7 @@
   },
   {
     "word": "leakage",
+    "translation": "n. 漏，泄漏；漏出物",
     "count": 7,
     "tags": [
       "六级"
@@ -4924,6 +4986,7 @@
   },
   {
     "word": "adulthood",
+    "translation": "n. 成人期",
     "count": 7,
     "tags": [
       "托福"
@@ -4997,6 +5060,7 @@
   },
   {
     "word": "transition",
+    "translation": "n. 过渡；转变；[分子生物] 转换；变调",
     "count": 7,
     "tags": [
       "SAT",
@@ -5073,6 +5137,7 @@
   },
   {
     "word": "hijack",
+    "translation": "v. 抢劫；揩油 n. 劫持；威逼；敲诈",
     "count": 7,
     "tags": [
       "六级",
@@ -5145,6 +5210,7 @@
   },
   {
     "word": "monarchy",
+    "translation": "n. 君主政体；君主国；君主政治",
     "count": 7,
     "tags": [
       "SAT",
@@ -5218,6 +5284,7 @@
   },
   {
     "word": "euthanasia",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -5285,6 +5352,7 @@
   },
   {
     "word": "impulse",
+    "translation": "n. 冲动；[电子] 脉冲；刺激；神经冲动；推动力 vt. 推动",
     "count": 6,
     "tags": [
       "SAT",
@@ -5356,6 +5424,7 @@
   },
   {
     "word": "assert",
+    "translation": "vt. 肯定地说， 断言； 维护， 坚持； 坚持己见",
     "count": 6,
     "tags": [
       "SAT",
@@ -5424,6 +5493,7 @@
   },
   {
     "word": "monetary",
+    "translation": "adj. 钱的， 货币的； 金融的",
     "count": 6,
     "tags": [
       "SAT",
@@ -5494,6 +5564,7 @@
   },
   {
     "word": "misery",
+    "translation": "n. 痛苦， 苦恼， 苦难； 悲惨的境遇， 贫苦",
     "count": 6,
     "tags": [
       "六级",
@@ -5564,6 +5635,7 @@
   },
   {
     "word": "environmentalist",
+    "translation": "n. 环境保护论者, 环境论者, 环境论信奉者",
     "count": 6,
     "tags": [
       "托福"
@@ -5635,6 +5707,7 @@
   },
   {
     "word": "enlighten",
+    "translation": "v.  启发， 启蒙， 教导， 启迪， 开导",
     "count": 6,
     "tags": [
       "SAT",
@@ -5706,6 +5779,7 @@
   },
   {
     "word": "census",
+    "translation": "v. 实施统计调查 n. 人口普查，人口调查",
     "count": 6,
     "tags": [
       "SAT",
@@ -5777,6 +5851,7 @@
   },
   {
     "word": "analyst",
+    "translation": "n. 分析者；精神分析医师；分解者",
     "count": 6,
     "tags": [
       "SAT",
@@ -5848,6 +5923,7 @@
   },
   {
     "word": "unpredictable",
+    "translation": "adj.  不可预知的； 无法预言的",
     "count": 6,
     "tags": [
       "托福"
@@ -5918,6 +5994,7 @@
   },
   {
     "word": "underestimate",
+    "translation": "vt. 对…估计不足，低估 n. 估计不足， 低估",
     "count": 6,
     "tags": [
       "六级",
@@ -5985,6 +6062,7 @@
   },
   {
     "word": "diminish",
+    "translation": "vi. 变少，变小，降低 vt. 减少， 减小， 降低",
     "count": 6,
     "tags": [
       "六级",
@@ -6048,6 +6126,7 @@
   },
   {
     "word": "nineteenth",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -6105,6 +6184,7 @@
   },
   {
     "word": "outdated",
+    "translation": "adj. 过时的",
     "count": 6,
     "tags": [
       "六级"
@@ -6180,6 +6260,7 @@
   },
   {
     "word": "factual",
+    "translation": "adj.  事实的； 事实上的， 实际的",
     "count": 6,
     "tags": [
       "SAT",
@@ -6248,6 +6329,7 @@
   },
   {
     "word": "narrative",
+    "translation": "n. 叙述；故事；讲述 adj. 叙事的，叙述的；叙事体的",
     "count": 6,
     "tags": [
       "SAT",
@@ -6321,6 +6403,7 @@
   },
   {
     "word": "multinationals",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -6388,6 +6471,7 @@
   },
   {
     "word": "downshifting",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -6448,6 +6532,7 @@
   },
   {
     "word": "quest",
+    "translation": "vi. 搜寻， 探求 n. 搜寻， 探求",
     "count": 6,
     "tags": [
       "六级",
@@ -6514,6 +6599,7 @@
   },
   {
     "word": "endeavor",
+    "translation": "n. 努力；尽力（等于endeavour） v. 努力；尽力（等于endeavour）",
     "count": 6,
     "tags": [
       "六级",
@@ -6581,6 +6667,7 @@
   },
   {
     "word": "heritage",
+    "translation": "n. 遗产；传统；继承物；继承权",
     "count": 6,
     "tags": [
       "六级",
@@ -6652,6 +6739,7 @@
   },
   {
     "word": "vulnerable",
+    "translation": "adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的",
     "count": 6,
     "tags": [
       "SAT",
@@ -6723,6 +6811,7 @@
   },
   {
     "word": "capuchin",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -6791,6 +6880,7 @@
   },
   {
     "word": "cognitive",
+    "translation": "adj. 认知的， 认识的， 有感知能力的",
     "count": 6,
     "tags": [
       "SAT",
@@ -6864,6 +6954,7 @@
   },
   {
     "word": "policymakers",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -6934,6 +7025,7 @@
   },
   {
     "word": "paycheck",
+    "translation": "n. 薪水支票, 工资",
     "count": 6,
     "tags": [
       "托福"
@@ -6990,6 +7082,7 @@
   },
   {
     "word": "shareholder",
+    "translation": "n. 股东",
     "count": 6,
     "tags": [
       "六级"
@@ -7053,6 +7146,7 @@
   },
   {
     "word": "hormone",
+    "translation": "n. [生理] 激素，荷尔蒙",
     "count": 6,
     "tags": [
       "SAT",
@@ -7119,6 +7213,7 @@
   },
   {
     "word": "felt",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -7189,6 +7284,7 @@
   },
   {
     "word": "archaeological",
+    "translation": "adj. 考古学的",
     "count": 6,
     "tags": [
       "托福"
@@ -7257,6 +7353,7 @@
   },
   {
     "word": "monarch",
+    "translation": "n. 帝王，君主，最高统治者",
     "count": 6,
     "tags": [
       "六级",
@@ -7326,6 +7423,7 @@
   },
   {
     "word": "renaissance",
+    "translation": "n.  [the R-] 文艺复兴， 文艺复兴时期； 复兴， 再生",
     "count": 6,
     "tags": [
       "SAT",
@@ -7397,6 +7495,7 @@
   },
   {
     "word": "termism",
+    "translation": "",
     "count": 6,
     "tags": [
       "其他"
@@ -7437,6 +7536,7 @@
   },
   {
     "word": "deforestation",
+    "translation": "n. 砍伐森林",
     "count": 6,
     "tags": [
       "六级"
@@ -7508,6 +7608,7 @@
   },
   {
     "word": "expedition",
+    "translation": "n. 旅行， 远征； 远征队， 探险队， 考察队； 迅速， 动作敏捷",
     "count": 6,
     "tags": [
       "六级",
@@ -7581,6 +7682,7 @@
   },
   {
     "word": "wetland",
+    "translation": "n. 潮湿的土壤, 沼泽地",
     "count": 6,
     "tags": [
       "托福"
@@ -7650,6 +7752,7 @@
   },
   {
     "word": "manifest",
+    "translation": "v. 证明，表明；显示 n. 载货单，货单；旅客名单 adj. 显然的，明显的；明白的",
     "count": 5,
     "tags": [
       "SAT",
@@ -7717,6 +7820,7 @@
   },
   {
     "word": "misuse",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -7782,6 +7886,7 @@
   },
   {
     "word": "distort",
+    "translation": "vi. 变形 vt. 歪曲，曲解；扭曲，使变形",
     "count": 5,
     "tags": [
       "SAT",
@@ -7850,6 +7955,7 @@
   },
   {
     "word": "rap",
+    "translation": "vi. 说唱 vt. 敲击，急敲；突然厉声说出；责备，训斥 n. 敲击， 急敲",
     "count": 5,
     "tags": [
       "六级",
@@ -7912,6 +8018,7 @@
   },
   {
     "word": "treasury",
+    "translation": "n. 财政部, 国库",
     "count": 5,
     "tags": [
       "托福"
@@ -7976,6 +8083,7 @@
   },
   {
     "word": "biologist",
+    "translation": "n.  生物学家",
     "count": 5,
     "tags": [
       "托福"
@@ -8037,6 +8145,7 @@
   },
   {
     "word": "complementary",
+    "translation": "adj.  补充的； 互补的",
     "count": 5,
     "tags": [
       "SAT",
@@ -8100,6 +8209,7 @@
   },
   {
     "word": "aggravate",
+    "translation": "vt. 加重， 加剧， 使恶化； 激怒， 使恼火",
     "count": 5,
     "tags": [
       "SAT",
@@ -8167,6 +8277,7 @@
   },
   {
     "word": "nonetheless",
+    "translation": "adv.  虽然如此， 但是， 依然",
     "count": 5,
     "tags": [
       "六级",
@@ -8234,6 +8345,7 @@
   },
   {
     "word": "com",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -8300,6 +8412,7 @@
   },
   {
     "word": "optimism",
+    "translation": "n.  乐观， 乐观主义",
     "count": 5,
     "tags": [
       "SAT",
@@ -8364,6 +8477,7 @@
   },
   {
     "word": "inherently",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -8424,6 +8538,7 @@
   },
   {
     "word": "predominance",
+    "translation": "n. 优势",
     "count": 5,
     "tags": [
       "托福"
@@ -8489,6 +8604,7 @@
   },
   {
     "word": "chancellor",
+    "translation": "n. 总理（德、奥等的）；（英）大臣；校长（美国某些大学的）；（英）大法官；（美）首席法官",
     "count": 5,
     "tags": [
       "考研"
@@ -8554,6 +8670,7 @@
   },
   {
     "word": "intensify",
+    "translation": "v. 增强， 加剧",
     "count": 5,
     "tags": [
       "六级",
@@ -8621,6 +8738,7 @@
   },
   {
     "word": "loom",
+    "translation": "n. 织布机；若隐若现的景象 v. 可怕地出现；朦胧地出现；隐约可见",
     "count": 5,
     "tags": [
       "六级",
@@ -8688,6 +8806,7 @@
   },
   {
     "word": "distrust",
+    "translation": "n&vt. 不信任，怀疑",
     "count": 5,
     "tags": [
       "托福"
@@ -8753,6 +8872,7 @@
   },
   {
     "word": "juggle",
+    "translation": "v&n. 玩杂耍",
     "count": 5,
     "tags": [
       "托福"
@@ -8808,6 +8928,7 @@
   },
   {
     "word": "boston",
+    "translation": "n. 波士顿",
     "count": 5,
     "tags": [
       "托福"
@@ -8870,6 +8991,7 @@
   },
   {
     "word": "genetically",
+    "translation": "adv. 遗传(基因)方面",
     "count": 5,
     "tags": [
       "托福"
@@ -8937,6 +9059,7 @@
   },
   {
     "word": "disapproval",
+    "translation": "n. 不赞成",
     "count": 5,
     "tags": [
       "六级",
@@ -8997,6 +9120,7 @@
   },
   {
     "word": "implicit",
+    "translation": "adj. 不言明的， 含蓄的； 内含的， 固有的； 无疑问的",
     "count": 5,
     "tags": [
       "六级",
@@ -9060,6 +9184,7 @@
   },
   {
     "word": "surname",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9119,6 +9244,7 @@
   },
   {
     "word": "slowdown",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9180,6 +9306,7 @@
   },
   {
     "word": "linguist",
+    "translation": "n.  语言学家； 通晓数国语言的人",
     "count": 5,
     "tags": [
       "SAT",
@@ -9237,6 +9364,7 @@
   },
   {
     "word": "receptor",
+    "translation": "n.  感受器； 受体",
     "count": 5,
     "tags": [
       "托福"
@@ -9294,6 +9422,7 @@
   },
   {
     "word": "provincial",
+    "translation": "adj. 省的；地方性的；偏狭的 n. 粗野的人；乡下人；外地人",
     "count": 5,
     "tags": [
       "SAT"
@@ -9352,6 +9481,7 @@
   },
   {
     "word": "constrain",
+    "translation": "vt. 限制， 约束； 克制， 抑制",
     "count": 5,
     "tags": [
       "六级",
@@ -9416,6 +9546,7 @@
   },
   {
     "word": "skepticism",
+    "translation": "n. 怀疑论",
     "count": 5,
     "tags": [
       "托福"
@@ -9461,6 +9592,7 @@
   },
   {
     "word": "sightseer",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9522,6 +9654,7 @@
   },
   {
     "word": "playgoer",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9583,6 +9716,7 @@
   },
   {
     "word": "sentiment",
+    "translation": "n. 意见，观点，感想；多愁善感；感情因素",
     "count": 5,
     "tags": [
       "六级",
@@ -9644,6 +9778,7 @@
   },
   {
     "word": "vos",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9703,6 +9838,7 @@
   },
   {
     "word": "reliance",
+    "translation": "n. 信赖；信心；受信赖的人或物",
     "count": 5,
     "tags": [
       "SAT",
@@ -9767,6 +9903,7 @@
   },
   {
     "word": "unrelated",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -9828,6 +9965,7 @@
   },
   {
     "word": "interpersonal",
+    "translation": "adj. 人与人之间的， 关于人与人之间关系的",
     "count": 5,
     "tags": [
       "六级",
@@ -9890,6 +10028,7 @@
   },
   {
     "word": "constraint",
+    "translation": "n. 限制，束缚，约束",
     "count": 5,
     "tags": [
       "六级",
@@ -9955,6 +10094,7 @@
   },
   {
     "word": "inherent",
+    "translation": "adj. 固有的；内在的；与生俱来的，遗传的",
     "count": 5,
     "tags": [
       "SAT",
@@ -10021,6 +10161,7 @@
   },
   {
     "word": "puritan",
+    "translation": "n. 清教徒 a清教徒的",
     "count": 5,
     "tags": [
       "托福"
@@ -10077,6 +10218,7 @@
   },
   {
     "word": "lewis",
+    "translation": "n. [机] 吊楔,起重爪",
     "count": 5,
     "tags": [
       "托福"
@@ -10143,6 +10285,7 @@
   },
   {
     "word": "holder",
+    "translation": "n. 持有人；所有人；固定器；（台、架等）支持物",
     "count": 5,
     "tags": [
       "托福",
@@ -10205,6 +10348,7 @@
   },
   {
     "word": "consolidate",
+    "translation": "v. 使加固，使加强；(把)联为一体，合并",
     "count": 5,
     "tags": [
       "六级",
@@ -10268,6 +10412,7 @@
   },
   {
     "word": "legitimacy",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -10331,6 +10476,7 @@
   },
   {
     "word": "default",
+    "translation": "v. 不履行义务， 拖欠 n. 违约，拖欠；弃权；预设，缺省",
     "count": 5,
     "tags": [
       "六级",
@@ -10398,6 +10544,7 @@
   },
   {
     "word": "overturn",
+    "translation": "vi. 倾覆， 翻转， 翻倒 vt. 使翻转，使倾覆，使倒下；颠覆，推翻",
     "count": 5,
     "tags": [
       "六级",
@@ -10463,6 +10610,7 @@
   },
   {
     "word": "excavation",
+    "translation": "n.  挖掘， 发掘； 出土文物； 挖掘现场",
     "count": 5,
     "tags": [
       "托福"
@@ -10525,6 +10673,7 @@
   },
   {
     "word": "warrant",
+    "translation": "n. 授权，批准；许可证；委任状，执行令 vt.  保证， 担保； 使正当",
     "count": 5,
     "tags": [
       "SAT",
@@ -10589,6 +10738,7 @@
   },
   {
     "word": "fake",
+    "translation": "adj. 假的，冒充的 n. 假货，赝品；骗子，冒充者 vt.  伪造， 捏造； 伪装",
     "count": 5,
     "tags": [
       "SAT",
@@ -10653,6 +10803,7 @@
   },
   {
     "word": "tester",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -10717,6 +10868,7 @@
   },
   {
     "word": "quota",
+    "translation": "n.  配额， 限额， 定额",
     "count": 5,
     "tags": [
       "六级",
@@ -10780,6 +10932,7 @@
   },
   {
     "word": "unjustified",
+    "translation": "",
     "count": 5,
     "tags": [
       "其他"
@@ -10844,6 +10997,7 @@
   },
   {
     "word": "habitat",
+    "translation": "n.  自然环境， 栖息地",
     "count": 5,
     "tags": [
       "托福",
@@ -10910,6 +11064,7 @@
   },
   {
     "word": "creator",
+    "translation": "n. 创建者, 创作者",
     "count": 5,
     "tags": [
       "托福"
@@ -10971,6 +11126,7 @@
   },
   {
     "word": "bodily",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -11028,6 +11184,7 @@
   },
   {
     "word": "discontinue",
+    "translation": "v.  停止， 中断",
     "count": 4,
     "tags": [
       "SAT"
@@ -11088,6 +11245,7 @@
   },
   {
     "word": "uncontrolled",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -11145,6 +11303,7 @@
   },
   {
     "word": "amendment",
+    "translation": "n. 改善, 改正",
     "count": 4,
     "tags": [
       "托福"
@@ -11200,6 +11359,7 @@
   },
   {
     "word": "slack",
+    "translation": "vi. 懈怠， 懒散 adj. 懈怠的，马虎的；萧条的，清淡的，不活跃的；松的 n. 松弛部分；宽松裤",
     "count": 4,
     "tags": [
       "六级",
@@ -11261,6 +11421,7 @@
   },
   {
     "word": "strive",
+    "translation": "vi.  奋斗， 努力； 力求",
     "count": 4,
     "tags": [
       "六级",
@@ -11323,6 +11484,7 @@
   },
   {
     "word": "businessmen",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -11382,6 +11544,7 @@
   },
   {
     "word": "dissatisfaction",
+    "translation": "n. 不满，不平",
     "count": 4,
     "tags": [
       "六级",
@@ -11434,6 +11597,7 @@
   },
   {
     "word": "exemplify",
+    "translation": "vt.  是…的典型； 例示， 举例证明",
     "count": 4,
     "tags": [
       "六级",
@@ -11489,6 +11653,7 @@
   },
   {
     "word": "impartial",
+    "translation": "adj. 公平的，公正的；不偏不倚的",
     "count": 4,
     "tags": [
       "SAT",
@@ -11546,6 +11711,7 @@
   },
   {
     "word": "lawsuit",
+    "translation": "n.  诉讼",
     "count": 4,
     "tags": [
       "六级",
@@ -11603,6 +11769,7 @@
   },
   {
     "word": "revolve",
+    "translation": "v. 旋转；循环出现；反复考虑 n. 旋转；循环；旋转舞台",
     "count": 4,
     "tags": [
       "六级",
@@ -11664,6 +11831,7 @@
   },
   {
     "word": "silicon",
+    "translation": "n. [化学] 硅；硅元素",
     "count": 4,
     "tags": [
       "六级",
@@ -11725,6 +11893,7 @@
   },
   {
     "word": "teen",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -11774,6 +11943,7 @@
   },
   {
     "word": "incomplete",
+    "translation": "adj. 不完全的, 不完整的",
     "count": 4,
     "tags": [
       "六级",
@@ -11830,6 +12000,7 @@
   },
   {
     "word": "vocational",
+    "translation": "adj. 职业的， 业务的",
     "count": 4,
     "tags": [
       "六级",
@@ -11891,6 +12062,7 @@
   },
   {
     "word": "inconclusive",
+    "translation": "adj. 非决定性的,不确定的",
     "count": 4,
     "tags": [
       "托福"
@@ -11948,6 +12120,7 @@
   },
   {
     "word": "methodology",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -12008,6 +12181,7 @@
   },
   {
     "word": "unreasonable",
+    "translation": "adj. 不讲道理的；过高的",
     "count": 4,
     "tags": [
       "六级"
@@ -12069,6 +12243,7 @@
   },
   {
     "word": "deem",
+    "translation": "v. 认为，视作；相信 n. (Deem)人名；(英)迪姆",
     "count": 4,
     "tags": [
       "六级",
@@ -12131,6 +12306,7 @@
   },
   {
     "word": "alien",
+    "translation": "adj. 外国的；相异的，性质不同的；不相容的 n. 外国人，外侨；外星人 v. 让渡，转让",
     "count": 4,
     "tags": [
       "SAT",
@@ -12191,6 +12367,7 @@
   },
   {
     "word": "doctrine",
+    "translation": "n.  教条， 教义； 学说",
     "count": 4,
     "tags": [
       "六级",
@@ -12246,6 +12423,7 @@
   },
   {
     "word": "diffusion",
+    "translation": "n. 扩散，传播；[光] 漫射",
     "count": 4,
     "tags": [
       "SAT",
@@ -12306,6 +12484,7 @@
   },
   {
     "word": "disorganize",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -12363,6 +12542,7 @@
   },
   {
     "word": "ingenuity",
+    "translation": "n. 机灵；设计新颖",
     "count": 4,
     "tags": [
       "六级",
@@ -12421,6 +12601,7 @@
   },
   {
     "word": "doom",
+    "translation": "n. 厄运；死亡；判决；世界末日 v. 注定；判决；使失败",
     "count": 4,
     "tags": [
       "六级",
@@ -12479,6 +12660,7 @@
   },
   {
     "word": "dosage",
+    "translation": "n.  剂量",
     "count": 4,
     "tags": [
       "托福"
@@ -12534,6 +12716,7 @@
   },
   {
     "word": "loser",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -12593,6 +12776,7 @@
   },
   {
     "word": "artwork",
+    "translation": "n. 艺术品,美术品",
     "count": 4,
     "tags": [
       "托福"
@@ -12654,6 +12838,7 @@
   },
   {
     "word": "revive",
+    "translation": "v. 复兴；复活；苏醒；恢复精神",
     "count": 4,
     "tags": [
       "SAT",
@@ -12717,6 +12902,7 @@
   },
   {
     "word": "biomedical",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -12777,6 +12963,7 @@
   },
   {
     "word": "stakeholder",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -12836,6 +13023,7 @@
   },
   {
     "word": "discontent",
+    "translation": "n. 不满a不满的vt使不满",
     "count": 4,
     "tags": [
       "托福"
@@ -12891,6 +13079,7 @@
   },
   {
     "word": "juvenile",
+    "translation": "adj.  幼稚的， 不成熟的； 少年的， 未成年的 n. 幼体；未成年人，少年",
     "count": 4,
     "tags": [
       "SAT",
@@ -12956,6 +13145,7 @@
   },
   {
     "word": "assimilation",
+    "translation": "n. 同化；吸收；[生化] 同化作用",
     "count": 4,
     "tags": [
       "SAT",
@@ -13017,6 +13207,7 @@
   },
   {
     "word": "recipient",
+    "translation": "n. 容器，接受者；容纳者 adj. 容易接受的，感受性强的",
     "count": 4,
     "tags": [
       "六级",
@@ -13078,6 +13269,7 @@
   },
   {
     "word": "subtle",
+    "translation": "adj.  细微的， 微妙的； 精巧的， 巧妙的； 狡猾的； 敏锐的",
     "count": 4,
     "tags": [
       "SAT",
@@ -13138,6 +13330,7 @@
   },
   {
     "word": "counterbalance",
+    "translation": "v. 使平均, 弥补 n. 平衡量, 平衡力",
     "count": 4,
     "tags": [
       "托福"
@@ -13193,6 +13386,7 @@
   },
   {
     "word": "suppress",
+    "translation": "vt.  抑制， 阻止； 镇压， 压制； 禁止发表， 查禁； 阻止…的生长",
     "count": 4,
     "tags": [
       "SAT",
@@ -13255,6 +13449,7 @@
   },
   {
     "word": "unfamiliar",
+    "translation": "adj. 不熟悉的",
     "count": 4,
     "tags": [
       "托福"
@@ -13314,6 +13509,7 @@
   },
   {
     "word": "diffuse",
+    "translation": "vi. 扩散 adj. 冗长的， 漫无边际的；四散的， 弥漫的 vt. 传播， 散布 <",
     "count": 4,
     "tags": [
       "六级",
@@ -13376,6 +13572,7 @@
   },
   {
     "word": "grievance",
+    "translation": "n. 不满，不平；委屈；冤情",
     "count": 4,
     "tags": [
       "SAT",
@@ -13433,6 +13630,7 @@
   },
   {
     "word": "token",
+    "translation": "adj. 象征性的 n. 表示， 象征； 标志， 记号；礼券， 代金券；信物； 纪念品；筹码",
     "count": 4,
     "tags": [
       "SAT",
@@ -13489,6 +13687,7 @@
   },
   {
     "word": "awaken",
+    "translation": "v. 唤醒, 醒来",
     "count": 4,
     "tags": [
       "托福"
@@ -13549,6 +13748,7 @@
   },
   {
     "word": "array",
+    "translation": "n. 数组，阵列；排列，列阵；大批，一系列；衣服 v. 排列，部署；打扮",
     "count": 4,
     "tags": [
       "六级",
@@ -13611,6 +13811,7 @@
   },
   {
     "word": "entail",
+    "translation": "v. 使需要，必需；承担；遗传给；蕴含 n. 引起；需要；继承",
     "count": 4,
     "tags": [
       "六级",
@@ -13673,6 +13874,7 @@
   },
   {
     "word": "manipulation",
+    "translation": "n. 处理,操纵",
     "count": 4,
     "tags": [
       "托福"
@@ -13732,6 +13934,7 @@
   },
   {
     "word": "subsidy",
+    "translation": "n. 补贴；津贴；补助金",
     "count": 4,
     "tags": [
       "六级",
@@ -13793,6 +13996,7 @@
   },
   {
     "word": "predator",
+    "translation": "n.  捕食性动物， 食肉动物； 掠夺者， 剥削者",
     "count": 4,
     "tags": [
       "托福"
@@ -13854,6 +14058,7 @@
   },
   {
     "word": "baseline",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -13914,6 +14119,7 @@
   },
   {
     "word": "unreliable",
+    "translation": "adj. 不可靠的",
     "count": 4,
     "tags": [
       "托福"
@@ -13976,6 +14182,7 @@
   },
   {
     "word": "stern",
+    "translation": "adj. 严厉的； 苛刻的； 难以忍受的；坚决的， 坚定的 n. 船尾， 舟尾",
     "count": 4,
     "tags": [
       "SAT",
@@ -14040,6 +14247,7 @@
   },
   {
     "word": "conceive",
+    "translation": "vi. 构想出， 设想； 怀孕 vt. 想出，认为；怀",
     "count": 4,
     "tags": [
       "六级",
@@ -14095,6 +14303,7 @@
   },
   {
     "word": "verbal",
+    "translation": "adj. 口头的；言语的；动词的；照字面的 n. 动词的非谓语形式",
     "count": 4,
     "tags": [
       "六级",
@@ -14157,6 +14366,7 @@
   },
   {
     "word": "correlate",
+    "translation": "v. 关联 n. 相关物；相关联的人 adj. 关联的",
     "count": 4,
     "tags": [
       "六级",
@@ -14214,6 +14424,7 @@
   },
   {
     "word": "columbia",
+    "translation": "n. 哥伦比亚",
     "count": 4,
     "tags": [
       "托福"
@@ -14269,6 +14480,7 @@
   },
   {
     "word": "teeth",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -14330,6 +14542,7 @@
   },
   {
     "word": "founder",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -14389,6 +14602,7 @@
   },
   {
     "word": "prestige",
+    "translation": "n. 威望，威信，声望",
     "count": 4,
     "tags": [
       "六级",
@@ -14448,6 +14662,7 @@
   },
   {
     "word": "thesis",
+    "translation": "n. 论文， 毕业论文； 论题， 论点",
     "count": 4,
     "tags": [
       "SAT",
@@ -14504,6 +14719,7 @@
   },
   {
     "word": "foster",
+    "translation": "v. 培养；养育，抚育；抱（希望等） adj. 收养的，养育的 n. (Foster)人名；(英、捷、意、葡、法、德、俄、西)福斯特",
     "count": 4,
     "tags": [
       "SAT",
@@ -14567,6 +14783,7 @@
   },
   {
     "word": "kinship",
+    "translation": "n.  血缘关系， 亲属关系",
     "count": 4,
     "tags": [
       "托福"
@@ -14629,6 +14846,7 @@
   },
   {
     "word": "obsess",
+    "translation": "v. 迷住, 使困扰",
     "count": 4,
     "tags": [
       "托福"
@@ -14686,6 +14904,7 @@
   },
   {
     "word": "ritual",
+    "translation": "adj. 作为仪式一部分的；例行的 A n. 典礼， 仪式；例行公事， 老规矩",
     "count": 4,
     "tags": [
       "SAT",
@@ -14748,6 +14967,7 @@
   },
   {
     "word": "stylist",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -14805,6 +15025,7 @@
   },
   {
     "word": "uphold",
+    "translation": "vt. 支持， 维护； 维持， 确认 <",
     "count": 4,
     "tags": [
       "SAT",
@@ -14864,6 +15085,7 @@
   },
   {
     "word": "setter",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -14904,6 +15126,7 @@
   },
   {
     "word": "evade",
+    "translation": "v.  逃避， 回避； 躲开， 避开",
     "count": 4,
     "tags": [
       "SAT",
@@ -14965,6 +15188,7 @@
   },
   {
     "word": "constituent",
+    "translation": "adj.  有宪法制定或修改权的； 组成的， 构成的 n. 选民；要素，成分",
     "count": 4,
     "tags": [
       "SAT",
@@ -15023,6 +15247,7 @@
   },
   {
     "word": "childless",
+    "translation": "adj. 无儿女的",
     "count": 4,
     "tags": [
       "托福"
@@ -15083,6 +15308,7 @@
   },
   {
     "word": "embody",
+    "translation": "v. 体现，使具体化；具体表达 n. (Embody)人名；(英)恩博迪",
     "count": 4,
     "tags": [
       "SAT",
@@ -15141,6 +15367,7 @@
   },
   {
     "word": "critique",
+    "translation": "n. 批评，评论 vt.  写评论",
     "count": 4,
     "tags": [
       "托福"
@@ -15198,6 +15425,7 @@
   },
   {
     "word": "scrutiny",
+    "translation": "n. 详细审查；监视；细看；选票复查",
     "count": 4,
     "tags": [
       "SAT",
@@ -15257,6 +15485,7 @@
   },
   {
     "word": "credible",
+    "translation": "adj. 可信的， 可靠的",
     "count": 4,
     "tags": [
       "SAT",
@@ -15320,6 +15549,7 @@
   },
   {
     "word": "unnecessary",
+    "translation": "adj. 不必要的,多余的",
     "count": 4,
     "tags": [
       "托福"
@@ -15376,6 +15606,7 @@
   },
   {
     "word": "statute",
+    "translation": "n.  成文法； 法令， 法规； 章程， 规则； 条例",
     "count": 4,
     "tags": [
       "SAT",
@@ -15430,6 +15661,7 @@
   },
   {
     "word": "jobseekers",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15491,6 +15723,7 @@
   },
   {
     "word": "giver",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15531,6 +15764,7 @@
   },
   {
     "word": "smartphone",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15590,6 +15824,7 @@
   },
   {
     "word": "threshold",
+    "translation": "n. 门槛， 门口； 入门， 开端， 起始点",
     "count": 4,
     "tags": [
       "六级",
@@ -15652,6 +15887,7 @@
   },
   {
     "word": "subscription",
+    "translation": "n. 订阅（费）；用户费（的缴纳）",
     "count": 4,
     "tags": [
       "六级"
@@ -15708,6 +15944,7 @@
   },
   {
     "word": "subheading",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15753,6 +15990,7 @@
   },
   {
     "word": "temporarily",
+    "translation": "adv. 临时",
     "count": 4,
     "tags": [
       "托福"
@@ -15814,6 +16052,7 @@
   },
   {
     "word": "oxytocin",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15875,6 +16114,7 @@
   },
   {
     "word": "urgency",
+    "translation": "n. 紧急；催促；紧急的事",
     "count": 4,
     "tags": [
       "SAT",
@@ -15937,6 +16177,7 @@
   },
   {
     "word": "dramatist",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -15994,6 +16235,7 @@
   },
   {
     "word": "unilateral",
+    "translation": "adj. 单边的；[植] 单侧的；单方面的；单边音；（父母）单系的",
     "count": 4,
     "tags": [
       "SAT"
@@ -16054,6 +16296,7 @@
   },
   {
     "word": "abdominal",
+    "translation": "adj. 腹部的；有腹鳍的",
     "count": 4,
     "tags": [
       "SAT"
@@ -16113,6 +16356,7 @@
   },
   {
     "word": "commuter",
+    "translation": "n. 通勤者, 每日往返上班者",
     "count": 4,
     "tags": [
       "托福"
@@ -16172,6 +16416,7 @@
   },
   {
     "word": "photography",
+    "translation": "n. 摄影；摄影术",
     "count": 4,
     "tags": [
       "SAT",
@@ -16230,6 +16475,7 @@
   },
   {
     "word": "grin",
+    "translation": "v. 露齿而笑，咧着嘴笑 n. 露齿笑",
     "count": 4,
     "tags": [
       "六级",
@@ -16288,6 +16534,7 @@
   },
   {
     "word": "partnership",
+    "translation": "n.  合伙； 伙伴关系； 合伙人身份",
     "count": 4,
     "tags": [
       "托福"
@@ -16348,6 +16595,7 @@
   },
   {
     "word": "civilisation",
+    "translation": "n. 文明， 文化",
     "count": 4,
     "tags": [
       "考研"
@@ -16407,6 +16655,7 @@
   },
   {
     "word": "alloparenting",
+    "translation": "",
     "count": 4,
     "tags": [
       "其他"
@@ -16469,6 +16718,7 @@
   },
   {
     "word": "hollywood",
+    "translation": "n. 好莱坞",
     "count": 4,
     "tags": [
       "托福"
@@ -16522,6 +16772,7 @@
   },
   {
     "word": "analog",
+    "translation": "n. 类似物； 模拟 A",
     "count": 4,
     "tags": [
       "考研"
@@ -16582,6 +16833,7 @@
   },
   {
     "word": "domino",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -16635,6 +16887,7 @@
   },
   {
     "word": "courteous",
+    "translation": "adj.  谦恭的， 有礼貌的",
     "count": 3,
     "tags": [
       "六级",
@@ -16689,6 +16942,7 @@
   },
   {
     "word": "charitable",
+    "translation": "adj. 慈善事业的,慷慨的,仁慈的",
     "count": 3,
     "tags": [
       "托福"
@@ -16745,6 +16999,7 @@
   },
   {
     "word": "interrelationship",
+    "translation": "n. 相互关系",
     "count": 3,
     "tags": [
       "托福"
@@ -16798,6 +17053,7 @@
   },
   {
     "word": "cocaine",
+    "translation": "n. 可卡因， 古柯碱",
     "count": 3,
     "tags": [
       "六级",
@@ -16854,6 +17110,7 @@
   },
   {
     "word": "pervasive",
+    "translation": "adj.  普遍深入的； 遍及的， 弥漫的",
     "count": 3,
     "tags": [
       "SAT",
@@ -16913,6 +17170,7 @@
   },
   {
     "word": "psychoactive",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -16973,6 +17231,7 @@
   },
   {
     "word": "manifestation",
+    "translation": "n. 显示, 表现",
     "count": 3,
     "tags": [
       "托福"
@@ -17022,6 +17281,7 @@
   },
   {
     "word": "restructure",
+    "translation": "v. 调整，重建",
     "count": 3,
     "tags": [
       "六级"
@@ -17075,6 +17335,7 @@
   },
   {
     "word": "soften",
+    "translation": "v. (使)变柔软,(使)变柔和",
     "count": 3,
     "tags": [
       "六级",
@@ -17131,6 +17392,7 @@
   },
   {
     "word": "jobless",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -17184,6 +17446,7 @@
   },
   {
     "word": "powerless",
+    "translation": "adj. 无力的；[劳经] 无能力的，无权的",
     "count": 3,
     "tags": [
       "SAT"
@@ -17237,6 +17500,7 @@
   },
   {
     "word": "notably",
+    "translation": "adv. 显著地；著名地",
     "count": 3,
     "tags": [
       "六级",
@@ -17294,6 +17558,7 @@
   },
   {
     "word": "sociologist",
+    "translation": "n. 社会学家",
     "count": 3,
     "tags": [
       "托福"
@@ -17350,6 +17615,7 @@
   },
   {
     "word": "standstill",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -17406,6 +17672,7 @@
   },
   {
     "word": "florida",
+    "translation": "n. 佛罗里达(美国州名)",
     "count": 3,
     "tags": [
       "托福"
@@ -17462,6 +17729,7 @@
   },
   {
     "word": "perplex",
+    "translation": "adj. 复杂的，令人费解的；令人困惑的",
     "count": 3,
     "tags": [
       "SAT",
@@ -17520,6 +17788,7 @@
   },
   {
     "word": "unparalleled",
+    "translation": "adj.  无比的， 无双的， 空前的",
     "count": 3,
     "tags": [
       "SAT",
@@ -17578,6 +17847,7 @@
   },
   {
     "word": "cling",
+    "translation": "vi. 紧紧抓住； 黏着， 挨近； 依附， 依恋； 坚持， 墨守， 忠实于",
     "count": 3,
     "tags": [
       "六级",
@@ -17631,6 +17901,7 @@
   },
   {
     "word": "volcanic",
+    "translation": "adj. 火山的,猛烈的",
     "count": 3,
     "tags": [
       "托福"
@@ -17689,6 +17960,7 @@
   },
   {
     "word": "dome",
+    "translation": "n. 圆屋顶 vi. 成圆顶状 vt. 加圆屋顶于…上",
     "count": 3,
     "tags": [
       "SAT",
@@ -17748,6 +18020,7 @@
   },
   {
     "word": "cosmic",
+    "translation": "adj. 宇宙的（等于cosmical）",
     "count": 3,
     "tags": [
       "六级",
@@ -17802,6 +18075,7 @@
   },
   {
     "word": "reign",
+    "translation": "vi. 统治， 支配；盛行； 占优势 n. 统治， 支配； 统治时期； 朝代",
     "count": 3,
     "tags": [
       "SAT",
@@ -17861,6 +18135,7 @@
   },
   {
     "word": "galaxy",
+    "translation": "n. 银河；[天] 星系；银河系；一群显赫的人",
     "count": 3,
     "tags": [
       "六级",
@@ -17919,6 +18194,7 @@
   },
   {
     "word": "trillion",
+    "translation": "num. 万亿",
     "count": 3,
     "tags": [
       "托福"
@@ -17967,6 +18243,7 @@
   },
   {
     "word": "plausible",
+    "translation": "adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的",
     "count": 3,
     "tags": [
       "SAT",
@@ -18021,6 +18298,7 @@
   },
   {
     "word": "pathway",
+    "translation": "n. 路, 径",
     "count": 3,
     "tags": [
       "托福"
@@ -18076,6 +18354,7 @@
   },
   {
     "word": "livelihood",
+    "translation": "n.  生计， 谋生手段",
     "count": 3,
     "tags": [
       "托福"
@@ -18129,6 +18408,7 @@
   },
   {
     "word": "offspring",
+    "translation": "n. 子女， 子孙， 后代； 崽",
     "count": 3,
     "tags": [
       "六级",
@@ -18184,6 +18464,7 @@
   },
   {
     "word": "unpredictability",
+    "translation": "n. 不可预测性",
     "count": 3,
     "tags": [
       "托福"
@@ -18240,6 +18521,7 @@
   },
   {
     "word": "thinker",
+    "translation": "n. 思想者, 思想家, 心智",
     "count": 3,
     "tags": [
       "托福"
@@ -18291,6 +18573,7 @@
   },
   {
     "word": "primacy",
+    "translation": "n. 首位",
     "count": 3,
     "tags": [
       "托福"
@@ -18344,6 +18627,7 @@
   },
   {
     "word": "transient",
+    "translation": "adj.  短促的， 片刻的， 一瞬间的； 暂住的， 临时的",
     "count": 3,
     "tags": [
       "SAT",
@@ -18402,6 +18686,7 @@
   },
   {
     "word": "postwar",
+    "translation": "adj. 战后的 n. 战后时期 adv. 战后；在战后",
     "count": 3,
     "tags": [
       "SAT",
@@ -18456,6 +18741,7 @@
   },
   {
     "word": "unattractive",
+    "translation": "adj. 无魅力的, 无吸引力的",
     "count": 3,
     "tags": [
       "托福"
@@ -18511,6 +18797,7 @@
   },
   {
     "word": "hitherto",
+    "translation": "adv. 到目前为止， 迄今 <",
     "count": 3,
     "tags": [
       "六级",
@@ -18560,6 +18847,7 @@
   },
   {
     "word": "countermeasure",
+    "translation": "n. 对策",
     "count": 3,
     "tags": [
       "六级"
@@ -18611,6 +18899,7 @@
   },
   {
     "word": "verdict",
+    "translation": "n. (陪审团的)裁决,判决；判断；定论",
     "count": 3,
     "tags": [
       "SAT",
@@ -18665,6 +18954,7 @@
   },
   {
     "word": "geology",
+    "translation": "n. 地质学；（某地）地质",
     "count": 3,
     "tags": [
       "SAT",
@@ -18721,6 +19011,7 @@
   },
   {
     "word": "incorporate",
+    "translation": "v. 包含，吸收；体现；把……合并 adj. 合并的；一体化的；组成公司的",
     "count": 3,
     "tags": [
       "SAT",
@@ -18779,6 +19070,7 @@
   },
   {
     "word": "readership",
+    "translation": "n. 读者的身分, 读者人数",
     "count": 3,
     "tags": [
       "托福"
@@ -18834,6 +19126,7 @@
   },
   {
     "word": "telecom",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -18892,6 +19185,7 @@
   },
   {
     "word": "newsroom",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -18945,6 +19239,7 @@
   },
   {
     "word": "gigantic",
+    "translation": "adj.  巨大的， 庞大的",
     "count": 3,
     "tags": [
       "SAT",
@@ -19004,6 +19299,7 @@
   },
   {
     "word": "disgrace",
+    "translation": "n. 耻辱；丢脸的人或事；失宠 v. 使……失宠；给……丢脸；使……蒙受耻辱；贬黜",
     "count": 3,
     "tags": [
       "六级",
@@ -19057,6 +19353,7 @@
   },
   {
     "word": "supercomputer",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -19113,6 +19410,7 @@
   },
   {
     "word": "surveillance",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -19168,6 +19466,7 @@
   },
   {
     "word": "resent",
+    "translation": "vt. 对…表示愤恨， 怨恨",
     "count": 3,
     "tags": [
       "SAT",
@@ -19228,6 +19527,7 @@
   },
   {
     "word": "burdensome",
+    "translation": "adj. 繁重的,难以承担的",
     "count": 3,
     "tags": [
       "托福"
@@ -19283,6 +19583,7 @@
   },
   {
     "word": "disregard",
+    "translation": "v. 忽视；不理；漠视；不顾 n. 忽视；不尊重",
     "count": 3,
     "tags": [
       "SAT",
@@ -19338,6 +19639,7 @@
   },
   {
     "word": "irrelevant",
+    "translation": "adj.  不相关的， 不切题的",
     "count": 3,
     "tags": [
       "SAT",
@@ -19397,6 +19699,7 @@
   },
   {
     "word": "fluctuate",
+    "translation": "vi. 波动， 涨落， 起伏",
     "count": 3,
     "tags": [
       "SAT",
@@ -19453,6 +19756,7 @@
   },
   {
     "word": "contend",
+    "translation": "vi. 争夺，竞争；搏斗，争斗 vt. 声称， 主张",
     "count": 3,
     "tags": [
       "SAT",
@@ -19508,6 +19812,7 @@
   },
   {
     "word": "incompetently",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -19560,6 +19865,7 @@
   },
   {
     "word": "whereby",
+    "translation": "adv. 凭此； 借以； 由于",
     "count": 3,
     "tags": [
       "六级",
@@ -19617,6 +19923,7 @@
   },
   {
     "word": "bypass",
+    "translation": "n. 旁道，迂回道 vt. 绕过， 绕…走； 越过， 置…于不顾",
     "count": 3,
     "tags": [
       "六级",
@@ -19675,6 +19982,7 @@
   },
   {
     "word": "unaware",
+    "translation": "adj. 不知道的, 没觉察到的",
     "count": 3,
     "tags": [
       "托福"
@@ -19728,6 +20036,7 @@
   },
   {
     "word": "arbiter",
+    "translation": "n. [法] 仲裁者；裁决人",
     "count": 3,
     "tags": [
       "SAT"
@@ -19783,6 +20092,7 @@
   },
   {
     "word": "marketplace",
+    "translation": "n. 集会场所, 市场",
     "count": 3,
     "tags": [
       "托福"
@@ -19839,6 +20149,7 @@
   },
   {
     "word": "ineffective",
+    "translation": "adj. 无效的, (指人)工作效率低的",
     "count": 3,
     "tags": [
       "六级",
@@ -19895,6 +20206,7 @@
   },
   {
     "word": "sweden",
+    "translation": "n. 瑞典",
     "count": 3,
     "tags": [
       "托福"
@@ -19951,6 +20263,7 @@
   },
   {
     "word": "keywords",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -20006,6 +20319,7 @@
   },
   {
     "word": "broaden",
+    "translation": "v. 放宽, 变宽, 扩大, 加宽",
     "count": 3,
     "tags": [
       "六级",
@@ -20062,6 +20376,7 @@
   },
   {
     "word": "predecessor",
+    "translation": "n. 前任， 前辈； 原有事物， 前身",
     "count": 3,
     "tags": [
       "六级",
@@ -20121,6 +20436,7 @@
   },
   {
     "word": "insensitive",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -20177,6 +20493,7 @@
   },
   {
     "word": "shopper",
+    "translation": "n. 购物者",
     "count": 3,
     "tags": [
       "托福"
@@ -20228,6 +20545,7 @@
   },
   {
     "word": "twain",
+    "translation": "n. 两, 双, 二",
     "count": 3,
     "tags": [
       "托福"
@@ -20279,6 +20597,7 @@
   },
   {
     "word": "innate",
+    "translation": "adj.  天生的， 固有的； 内在的， 直觉的",
     "count": 3,
     "tags": [
       "SAT",
@@ -20336,6 +20655,7 @@
   },
   {
     "word": "linguistic",
+    "translation": "adj.  语言的， 语言学的",
     "count": 3,
     "tags": [
       "托福",
@@ -20393,6 +20713,7 @@
   },
   {
     "word": "outrage",
+    "translation": "n. 义愤，愤慨；暴行，骇人听闻的事件 vt. 激起…的义愤， 激怒",
     "count": 3,
     "tags": [
       "SAT",
@@ -20453,6 +20774,7 @@
   },
   {
     "word": "antismoking",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -20508,6 +20830,7 @@
   },
   {
     "word": "prudent",
+    "translation": "adj. 谨慎的；精明的；节俭的 n. (Prudent)人名；(法)普吕当",
     "count": 3,
     "tags": [
       "SAT",
@@ -20568,6 +20891,7 @@
   },
   {
     "word": "paralysis",
+    "translation": "n. 麻痹， 瘫痪， 中风； 无能， 无力",
     "count": 3,
     "tags": [
       "SAT",
@@ -20624,6 +20948,7 @@
   },
   {
     "word": "chicago",
+    "translation": "n. 芝加哥",
     "count": 3,
     "tags": [
       "托福"
@@ -20677,6 +21002,7 @@
   },
   {
     "word": "degradation",
+    "translation": "n. 退化；降格，降级；堕落",
     "count": 3,
     "tags": [
       "SAT",
@@ -20734,6 +21060,7 @@
   },
   {
     "word": "pharmaceutical",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -20786,6 +21113,7 @@
   },
   {
     "word": "jurisdiction",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -20837,6 +21165,7 @@
   },
   {
     "word": "hispanic",
+    "translation": "adj. 西班牙的",
     "count": 3,
     "tags": [
       "托福"
@@ -20882,6 +21211,7 @@
   },
   {
     "word": "depict",
+    "translation": "vt.  描写， 描述， 描绘",
     "count": 3,
     "tags": [
       "六级",
@@ -20935,6 +21265,7 @@
   },
   {
     "word": "lure",
+    "translation": "vt. 吸引，引诱，诱惑 n. 吸引力， 诱惑物； 诱饵， 鱼饵",
     "count": 3,
     "tags": [
       "六级",
@@ -20992,6 +21323,7 @@
   },
   {
     "word": "illusion",
+    "translation": "n. 幻想中的事物； 错误的观念；错觉， 幻觉； 假象",
     "count": 3,
     "tags": [
       "SAT",
@@ -21047,6 +21379,7 @@
   },
   {
     "word": "gambler",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -21104,6 +21437,7 @@
   },
   {
     "word": "plead",
+    "translation": "vi. 恳求，请求；申诉，答辩，辩护 vt. 为…辩护， 提出…为理由",
     "count": 3,
     "tags": [
       "六级",
@@ -21158,6 +21492,7 @@
   },
   {
     "word": "regime",
+    "translation": "n. 政权，政体；社会制度；管理体制",
     "count": 3,
     "tags": [
       "SAT",
@@ -21218,6 +21553,7 @@
   },
   {
     "word": "intuitive",
+    "translation": "adj. 有直觉力的，直觉到的",
     "count": 3,
     "tags": [
       "六级",
@@ -21272,6 +21608,7 @@
   },
   {
     "word": "reap",
+    "translation": "v. 收获，获得；收割 n. (Reap)人名；(英)里普",
     "count": 3,
     "tags": [
       "六级",
@@ -21325,6 +21662,7 @@
   },
   {
     "word": "envision",
+    "translation": "vt.  想象， 展望， 预想",
     "count": 3,
     "tags": [
       "托福"
@@ -21380,6 +21718,7 @@
   },
   {
     "word": "setback",
+    "translation": "n.  挫折， 阻碍； 倒退",
     "count": 3,
     "tags": [
       "SAT",
@@ -21439,6 +21778,7 @@
   },
   {
     "word": "disproportionately",
+    "translation": "adv. 比例不均地，不成比例地",
     "count": 3,
     "tags": [
       "六级"
@@ -21496,6 +21836,7 @@
   },
   {
     "word": "undesirable",
+    "translation": "adj. 不受欢迎的， 令人不快的",
     "count": 3,
     "tags": [
       "六级",
@@ -21554,6 +21895,7 @@
   },
   {
     "word": "chronic",
+    "translation": "adj. 慢性的；长期的；习惯性的 n. (Chronic)人名；(英)克罗尼克",
     "count": 3,
     "tags": [
       "六级",
@@ -21613,6 +21955,7 @@
   },
   {
     "word": "extract",
+    "translation": "vt. 取出，抽出；采掘，提炼，榨取；获得，索取；摘录['3kstrækt] n. 摘录， 选段； 提出物， 精， 汁",
     "count": 3,
     "tags": [
       "六级",
@@ -21672,6 +22015,7 @@
   },
   {
     "word": "rut",
+    "translation": "n. 定例, 惯例 v在形成车辙",
     "count": 3,
     "tags": [
       "托福"
@@ -21721,6 +22065,7 @@
   },
   {
     "word": "ancestry",
+    "translation": "n.  祖先  ； 家系， 血统",
     "count": 3,
     "tags": [
       "SAT",
@@ -21777,6 +22122,7 @@
   },
   {
     "word": "seventeenth",
+    "translation": "num. 第十七,十七分之一",
     "count": 3,
     "tags": [
       "托福"
@@ -21822,6 +22168,7 @@
   },
   {
     "word": "sermon",
+    "translation": "n. 布道，讲道；说教",
     "count": 3,
     "tags": [
       "六级"
@@ -21871,6 +22218,7 @@
   },
   {
     "word": "mock",
+    "translation": "n. 英国模拟考试（mocks） v. 愚弄，嘲弄 adj. 仿制的，模拟的，虚假的，不诚实的",
     "count": 3,
     "tags": [
       "SAT",
@@ -21930,6 +22278,7 @@
   },
   {
     "word": "overrule",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -21986,6 +22335,7 @@
   },
   {
     "word": "disposition",
+    "translation": "n. 性情， 性格； 意向， 倾向； 排列， 部署",
     "count": 3,
     "tags": [
       "六级",
@@ -22042,6 +22392,7 @@
   },
   {
     "word": "stylish",
+    "translation": "adj.  漂亮的， 时髦的； 高雅的， 有格调的",
     "count": 3,
     "tags": [
       "托福"
@@ -22093,6 +22444,7 @@
   },
   {
     "word": "knight",
+    "translation": "n. (欧洲中世纪的)骑士 v. 授以爵位",
     "count": 3,
     "tags": [
       "六级",
@@ -22147,6 +22499,7 @@
   },
   {
     "word": "cascade",
+    "translation": "vi. 倾泻，流注 n.  小瀑布； 倾泻",
     "count": 3,
     "tags": [
       "托福"
@@ -22200,6 +22553,7 @@
   },
   {
     "word": "commissioner",
+    "translation": "n. 委员, 专员",
     "count": 3,
     "tags": [
       "托福"
@@ -22252,6 +22606,7 @@
   },
   {
     "word": "intrinsic",
+    "translation": "adj.  固有的， 本质的， 内在的",
     "count": 3,
     "tags": [
       "SAT",
@@ -22310,6 +22665,7 @@
   },
   {
     "word": "predatory",
+    "translation": "adj. 掠夺的，掠夺成性的；食肉的；捕食生物的",
     "count": 3,
     "tags": [
       "SAT",
@@ -22367,6 +22723,7 @@
   },
   {
     "word": "aspiration",
+    "translation": "n. 渴望；抱负；送气；吸气；吸引术",
     "count": 3,
     "tags": [
       "SAT",
@@ -22422,6 +22779,7 @@
   },
   {
     "word": "redefine",
+    "translation": "v. 重新定义",
     "count": 3,
     "tags": [
       "六级",
@@ -22476,6 +22834,7 @@
   },
   {
     "word": "justification",
+    "translation": "n. 理由；辩护；认为有理，认为正当；释罪",
     "count": 3,
     "tags": [
       "SAT",
@@ -22532,6 +22891,7 @@
   },
   {
     "word": "stun",
+    "translation": "v. 使震惊；打昏；给以深刻的印象 n. 昏迷；打昏；惊倒；令人惊叹的事物",
     "count": 3,
     "tags": [
       "SAT",
@@ -22588,6 +22948,7 @@
   },
   {
     "word": "legislature",
+    "translation": "n.  立法机关， 立法团体",
     "count": 3,
     "tags": [
       "托福"
@@ -22643,6 +23004,7 @@
   },
   {
     "word": "pilgrim",
+    "translation": "n. 朝圣者；漫游者；（美）最初的移民 vi. 去朝圣；漫游",
     "count": 3,
     "tags": [
       "六级",
@@ -22701,6 +23063,7 @@
   },
   {
     "word": "misinterpretation",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -22758,6 +23121,7 @@
   },
   {
     "word": "novelty",
+    "translation": "n. 新奇事物； 新奇， 新奇感， 新奇性； 新颖小巧而廉价的物品",
     "count": 3,
     "tags": [
       "六级",
@@ -22813,6 +23177,7 @@
   },
   {
     "word": "unionist",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -22868,6 +23233,7 @@
   },
   {
     "word": "realise",
+    "translation": "v. 认识到，明白",
     "count": 3,
     "tags": [
       "考研"
@@ -22921,6 +23287,7 @@
   },
   {
     "word": "superfluous",
+    "translation": "adj.  多余的， 过剩的， 过量的； 不必要的",
     "count": 3,
     "tags": [
       "SAT",
@@ -22973,6 +23340,7 @@
   },
   {
     "word": "wellbeing",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23058,6 +23426,7 @@
   },
   {
     "word": "jobcentre",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23111,6 +23480,7 @@
   },
   {
     "word": "jobseeker",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23162,6 +23532,7 @@
   },
   {
     "word": "claimant",
+    "translation": "n. 原告；[贸易] 索赔人；提出要求者",
     "count": 3,
     "tags": [
       "SAT",
@@ -23220,6 +23591,7 @@
   },
   {
     "word": "contemptuous",
+    "translation": "adj.  轻蔑的， 侮辱的",
     "count": 3,
     "tags": [
       "SAT"
@@ -23267,6 +23639,7 @@
   },
   {
     "word": "athens",
+    "translation": "n. 雅典(希腊首都)",
     "count": 3,
     "tags": [
       "托福"
@@ -23323,6 +23696,7 @@
   },
   {
     "word": "aristocratic",
+    "translation": "adj.  贵族的， 有贵族气派的",
     "count": 3,
     "tags": [
       "托福"
@@ -23378,6 +23752,7 @@
   },
   {
     "word": "unpopular",
+    "translation": "adj. 不流行的, 不受欢迎的",
     "count": 3,
     "tags": [
       "托福"
@@ -23427,6 +23802,7 @@
   },
   {
     "word": "statistician",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23482,6 +23858,7 @@
   },
   {
     "word": "dearth",
+    "translation": "n. 缺乏；饥馑；粮食不足",
     "count": 3,
     "tags": [
       "SAT",
@@ -23532,6 +23909,7 @@
   },
   {
     "word": "revelation",
+    "translation": "n. 被提示的真相， 新发现； 揭示， 透露， 显示",
     "count": 3,
     "tags": [
       "SAT",
@@ -23589,6 +23967,7 @@
   },
   {
     "word": "wilderness",
+    "translation": "n. 荒野",
     "count": 3,
     "tags": [
       "托福"
@@ -23645,6 +24024,7 @@
   },
   {
     "word": "denmark",
+    "translation": "n. 丹麦",
     "count": 3,
     "tags": [
       "托福"
@@ -23700,6 +24080,7 @@
   },
   {
     "word": "premise",
+    "translation": "v. 引出，预先提出；作为…的前提 n. 前提；上述各项；房屋连地基",
     "count": 3,
     "tags": [
       "SAT",
@@ -23758,6 +24139,7 @@
   },
   {
     "word": "halo",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23813,6 +24195,7 @@
   },
   {
     "word": "bribery",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -23866,6 +24249,7 @@
   },
   {
     "word": "prosecutor",
+    "translation": "n. 检察官；公诉人；[法] 起诉人；实行者",
     "count": 3,
     "tags": [
       "SAT"
@@ -23919,6 +24303,7 @@
   },
   {
     "word": "pennsylvania",
+    "translation": "n. 宾夕法尼亚州（美国州名）",
     "count": 3,
     "tags": [
       "托福"
@@ -23976,6 +24361,7 @@
   },
   {
     "word": "hawaii",
+    "translation": "n. 夏威夷",
     "count": 3,
     "tags": [
       "托福"
@@ -24033,6 +24419,7 @@
   },
   {
     "word": "bleak",
+    "translation": "adj. 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的",
     "count": 3,
     "tags": [
       "SAT",
@@ -24091,6 +24478,7 @@
   },
   {
     "word": "hull",
+    "translation": "n. 外壳；船身，船体 vt.  给…去外壳",
     "count": 3,
     "tags": [
       "六级",
@@ -24148,6 +24536,7 @@
   },
   {
     "word": "retake",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -24200,6 +24589,7 @@
   },
   {
     "word": "mandate",
+    "translation": "n. 授权；命令，指令；委托管理；受命进行的工作 v. 授权；托管",
     "count": 3,
     "tags": [
       "SAT",
@@ -24254,6 +24644,7 @@
   },
   {
     "word": "patricia",
+    "translation": "n. 帕特丽夏（女子名）",
     "count": 3,
     "tags": [
       "托福"
@@ -24307,6 +24698,7 @@
   },
   {
     "word": "antipoverty",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -24362,6 +24754,7 @@
   },
   {
     "word": "alleviation",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -24411,6 +24804,7 @@
   },
   {
     "word": "foam",
+    "translation": "n. 泡沫；水沫；灭火泡沫 v. 起泡沫；吐白沫；起着泡沫流动",
     "count": 3,
     "tags": [
       "六级",
@@ -24470,6 +24864,7 @@
   },
   {
     "word": "zealand",
+    "translation": "n. 西兰岛(丹麦最大的岛)",
     "count": 3,
     "tags": [
       "托福"
@@ -24525,6 +24920,7 @@
   },
   {
     "word": "refuge",
+    "translation": "n. 避难；避难所；庇护 vt. 给予…庇护；接纳…避难 vi. 避难；逃避",
     "count": 3,
     "tags": [
       "六级",
@@ -24582,6 +24978,7 @@
   },
   {
     "word": "peninsula",
+    "translation": "n.  半岛",
     "count": 3,
     "tags": [
       "六级",
@@ -24642,6 +25039,7 @@
   },
   {
     "word": "caravanserai",
+    "translation": "",
     "count": 3,
     "tags": [
       "其他"
@@ -24715,6 +25113,7 @@
   },
   {
     "word": "hardy",
+    "translation": "adj.  强壮的； 耐寒的； 能吃苦耐劳的",
     "count": 3,
     "tags": [
       "六级",
@@ -24771,6 +25170,7 @@
   },
   {
     "word": "contributor",
+    "translation": "n.  投稿者； 贡献者， 捐助者； 促成物",
     "count": 3,
     "tags": [
       "托福"
@@ -24827,6 +25227,7 @@
   },
   {
     "word": "rehearsal",
+    "translation": "n. 排演；预演；练习；训练；叙述",
     "count": 3,
     "tags": [
       "六级",
@@ -24881,6 +25282,7 @@
   },
   {
     "word": "pirate",
+    "translation": "n. 非法盗印者，侵犯版权者；海盗 vt. 盗用， 非法盗印",
     "count": 3,
     "tags": [
       "六级",
@@ -24933,6 +25335,7 @@
   },
   {
     "word": "tangible",
+    "translation": "adj.  可触摸的， 可感知的； 明确的， 确凿的； 有形的， 实际的",
     "count": 3,
     "tags": [
       "SAT",
@@ -24986,6 +25389,7 @@
   },
   {
     "word": "haunt",
+    "translation": "vt. 常出没于；使苦恼，使担忧；萦绕在心头，缠绕 n. 常去的地方",
     "count": 2,
     "tags": [
       "六级",
@@ -25032,6 +25436,7 @@
   },
   {
     "word": "someday",
+    "translation": "adv. 有朝一日",
     "count": 2,
     "tags": [
       "托福"
@@ -25081,6 +25486,7 @@
   },
   {
     "word": "hallucinogen",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25136,6 +25542,7 @@
   },
   {
     "word": "quantitative",
+    "translation": "adj. 定量的；量的，数量的",
     "count": 2,
     "tags": [
       "SAT",
@@ -25190,6 +25597,7 @@
   },
   {
     "word": "dole",
+    "translation": "n. 救济，救济金 vt. 发放， 发给",
     "count": 2,
     "tags": [
       "六级"
@@ -25239,6 +25647,7 @@
   },
   {
     "word": "luce",
+    "translation": "n. 一种成鱼",
     "count": 2,
     "tags": [
       "托福"
@@ -25290,6 +25699,7 @@
   },
   {
     "word": "analogy",
+    "translation": "n. 类似，相似，类比，类推",
     "count": 2,
     "tags": [
       "SAT",
@@ -25344,6 +25754,7 @@
   },
   {
     "word": "blacken",
+    "translation": "v. 使变黑, 诽谤",
     "count": 2,
     "tags": [
       "托福"
@@ -25397,6 +25808,7 @@
   },
   {
     "word": "incapable",
+    "translation": "adj. 无能力的；无资格的",
     "count": 2,
     "tags": [
       "六级",
@@ -25450,6 +25862,7 @@
   },
   {
     "word": "fruitless",
+    "translation": "adj. 不结果实的",
     "count": 2,
     "tags": [
       "托福"
@@ -25497,6 +25910,7 @@
   },
   {
     "word": "humankind",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25546,6 +25960,7 @@
   },
   {
     "word": "silt",
+    "translation": "n. 淤泥 v. (使)淤塞",
     "count": 2,
     "tags": [
       "托福"
@@ -25591,6 +26006,7 @@
   },
   {
     "word": "monster",
+    "translation": "adj. 大的， 庞大的 n. 怪物；极其残酷的人；巨人，巨兽，巨大的东西",
     "count": 2,
     "tags": [
       "六级",
@@ -25645,6 +26061,7 @@
   },
   {
     "word": "rebound",
+    "translation": "n. /v回弹",
     "count": 2,
     "tags": [
       "托福"
@@ -25694,6 +26111,7 @@
   },
   {
     "word": "mechanistic",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25746,6 +26164,7 @@
   },
   {
     "word": "worldview",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25798,6 +26217,7 @@
   },
   {
     "word": "schism",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25847,6 +26267,7 @@
   },
   {
     "word": "superstition",
+    "translation": "n. 迷信， 迷信行为； 盲目的恐惧",
     "count": 2,
     "tags": [
       "六级",
@@ -25900,6 +26321,7 @@
   },
   {
     "word": "utopia",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -25959,6 +26381,7 @@
   },
   {
     "word": "meaningless",
+    "translation": "adj. 无意义的",
     "count": 2,
     "tags": [
       "托福"
@@ -26011,6 +26434,7 @@
   },
   {
     "word": "demographer",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26060,6 +26484,7 @@
   },
   {
     "word": "spacious",
+    "translation": "adj. 宽敞的，广阔的；无边无际的",
     "count": 2,
     "tags": [
       "六级",
@@ -26113,6 +26538,7 @@
   },
   {
     "word": "unanimously",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26165,6 +26591,7 @@
   },
   {
     "word": "geologist",
+    "translation": "n. 地质学者",
     "count": 2,
     "tags": [
       "托福"
@@ -26216,6 +26643,7 @@
   },
   {
     "word": "stationary",
+    "translation": "adj. 固定的；静止的；定居的；常备军的 n. 不动的人；驻军",
     "count": 2,
     "tags": [
       "SAT",
@@ -26268,6 +26696,7 @@
   },
   {
     "word": "geophysical",
+    "translation": "adj. 地球物理学的",
     "count": 2,
     "tags": [
       "托福"
@@ -26321,6 +26750,7 @@
   },
   {
     "word": "propel",
+    "translation": "vt.  推进， 推动； 激励， 驱使",
     "count": 2,
     "tags": [
       "SAT",
@@ -26373,6 +26803,7 @@
   },
   {
     "word": "continental",
+    "translation": "adj. 大陆的，大陆性的",
     "count": 2,
     "tags": [
       "六级",
@@ -26423,6 +26854,7 @@
   },
   {
     "word": "fissure",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26470,6 +26902,7 @@
   },
   {
     "word": "landmark",
+    "translation": "n. [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事 adj. 有重大意义或影响的",
     "count": 2,
     "tags": [
       "SAT",
@@ -26519,6 +26952,7 @@
   },
   {
     "word": "cosmos",
+    "translation": "n.  宇宙",
     "count": 2,
     "tags": [
       "六级",
@@ -26569,6 +27003,7 @@
   },
   {
     "word": "unimaginable",
+    "translation": "adj. 不能想象的, 想象不到的",
     "count": 2,
     "tags": [
       "托福"
@@ -26620,6 +27055,7 @@
   },
   {
     "word": "detector",
+    "translation": "n. 侦察器,探测器,检波器,检电器",
     "count": 2,
     "tags": [
       "六级",
@@ -26672,6 +27108,7 @@
   },
   {
     "word": "inflationary",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26721,6 +27158,7 @@
   },
   {
     "word": "doormat",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26770,6 +27208,7 @@
   },
   {
     "word": "paralyze",
+    "translation": "v. (paralyse)使瘫痪(麻痹)；使不能正常运作，使陷入瘫痪",
     "count": 2,
     "tags": [
       "SAT",
@@ -26822,6 +27261,7 @@
   },
   {
     "word": "tort",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26871,6 +27311,7 @@
   },
   {
     "word": "triviality",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -26918,6 +27359,7 @@
   },
   {
     "word": "supplier",
+    "translation": "n.  供应者， 供应商， 供货方",
     "count": 2,
     "tags": [
       "托福"
@@ -26969,6 +27411,7 @@
   },
   {
     "word": "horrify",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -27014,6 +27457,7 @@
   },
   {
     "word": "purist",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -27063,6 +27507,7 @@
   },
   {
     "word": "pessimism",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -27114,6 +27559,7 @@
   },
   {
     "word": "lifelong",
+    "translation": "adj.  终身的， 毕生的",
     "count": 2,
     "tags": [
       "SAT",
@@ -27168,6 +27614,7 @@
   },
   {
     "word": "molecular",
+    "translation": "adj.  分子的； 摩尔的； 由分子组成的",
     "count": 2,
     "tags": [
       "六级",
@@ -27218,6 +27665,7 @@
   },
   {
     "word": "unacceptable",
+    "translation": "adj. 不能接受的, 不受欢迎的",
     "count": 2,
     "tags": [
       "托福"
@@ -27258,6 +27706,7 @@
   },
   {
     "word": "auditor",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -27309,6 +27758,7 @@
   },
   {
     "word": "practitioner",
+    "translation": "n. 开业者，从业者，执业医生",
     "count": 2,
     "tags": [
       "SAT",
@@ -27356,6 +27806,7 @@
   },
   {
     "word": "imperative",
+    "translation": "adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的 n. 必要的事；命令；需要；规则；[语]祈使语气",
     "count": 2,
     "tags": [
       "SAT",
@@ -27408,6 +27859,7 @@
   },
   {
     "word": "augment",
+    "translation": "v. 增加；增大 n. 增加；增大",
     "count": 2,
     "tags": [
       "SAT",
@@ -27455,6 +27907,7 @@
   },
   {
     "word": "fallacy",
+    "translation": "n. 谬误, 谬论",
     "count": 2,
     "tags": [
       "托福"
@@ -27495,6 +27948,7 @@
   },
   {
     "word": "zenith",
+    "translation": "n.  天顶； 最高点； 顶点",
     "count": 2,
     "tags": [
       "SAT"
@@ -27544,6 +27998,7 @@
   },
   {
     "word": "casualty",
+    "translation": "n. 伤亡人员， 死伤者； 受害人， 损失的东西",
     "count": 2,
     "tags": [
       "SAT",
@@ -27598,6 +28053,7 @@
   },
   {
     "word": "devalue",
+    "translation": "v. 使贬值；降低…的价值",
     "count": 2,
     "tags": [
       "SAT"
@@ -27650,6 +28106,7 @@
   },
   {
     "word": "dean",
+    "translation": "n. 教长； 主持牧师 A；学院院长； 系主任； 训导主任",
     "count": 2,
     "tags": [
       "六级",
@@ -27703,6 +28160,7 @@
   },
   {
     "word": "impetus",
+    "translation": "n.  促进， 推动； 刺激； 推动力",
     "count": 2,
     "tags": [
       "SAT",
@@ -27755,6 +28213,7 @@
   },
   {
     "word": "pave",
+    "translation": "v. 铺设；安排；作铺设之用 n. (Pave)人名；(西、塞)帕韦",
     "count": 2,
     "tags": [
       "六级",
@@ -27808,6 +28267,7 @@
   },
   {
     "word": "mediocrity",
+    "translation": "n.  平凡； 平庸之才",
     "count": 2,
     "tags": [
       "SAT"
@@ -27859,6 +28319,7 @@
   },
   {
     "word": "tribe",
+    "translation": "n. 部落；族；宗族；一伙",
     "count": 2,
     "tags": [
       "六级",
@@ -27910,6 +28371,7 @@
   },
   {
     "word": "finite",
+    "translation": "adj. 有限的；限定的 n. 有限之物",
     "count": 2,
     "tags": [
       "SAT",
@@ -27966,6 +28428,7 @@
   },
   {
     "word": "verb",
+    "translation": "n. 动词；动词词性；动词性短语或从句 adj. 动词的；有动词性质的；起动词作用的",
     "count": 2,
     "tags": [
       "托福",
@@ -28018,6 +28481,7 @@
   },
   {
     "word": "shorten",
+    "translation": "v. 缩短, (使)变短",
     "count": 2,
     "tags": [
       "六级",
@@ -28070,6 +28534,7 @@
   },
   {
     "word": "explanatory",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28117,6 +28582,7 @@
   },
   {
     "word": "eyebrow",
+    "translation": "n. 眉毛 v. 为…描眉；用皱眉蹙额迫使",
     "count": 2,
     "tags": [
       "托福",
@@ -28170,6 +28636,7 @@
   },
   {
     "word": "commute",
+    "translation": "vi. 乘公交车上下班， 经常乘车往返于两地； 通勤 n. 在两地之间坐车往返； 通勤",
     "count": 2,
     "tags": [
       "SAT",
@@ -28225,6 +28692,7 @@
   },
   {
     "word": "discomfort",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28276,6 +28744,7 @@
   },
   {
     "word": "destiny",
+    "translation": "n. 命运；天数， 天命 <",
     "count": 2,
     "tags": [
       "六级",
@@ -28328,6 +28797,7 @@
   },
   {
     "word": "immoral",
+    "translation": "adj. 不道德的；邪恶的；淫荡的",
     "count": 2,
     "tags": [
       "SAT"
@@ -28379,6 +28849,7 @@
   },
   {
     "word": "verbally",
+    "translation": "adv. 用言辞地, 口头地",
     "count": 2,
     "tags": [
       "托福"
@@ -28426,6 +28897,7 @@
   },
   {
     "word": "technologist",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28477,6 +28949,7 @@
   },
   {
     "word": "sooner",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28526,6 +28999,7 @@
   },
   {
     "word": "info",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28571,6 +29045,7 @@
   },
   {
     "word": "harbor",
+    "translation": "n. 港口， 海港；避难所， 藏身处 vt. 隐匿； 窝藏， 包庇",
     "count": 2,
     "tags": [
       "托福",
@@ -28625,6 +29100,7 @@
   },
   {
     "word": "dutch",
+    "translation": "n. 荷兰人 adj. 荷兰的",
     "count": 2,
     "tags": [
       "托福"
@@ -28670,6 +29146,7 @@
   },
   {
     "word": "template",
+    "translation": "n.  模板， 样板",
     "count": 2,
     "tags": [
       "托福"
@@ -28721,6 +29198,7 @@
   },
   {
     "word": "disconnect",
+    "translation": "v. 断开",
     "count": 2,
     "tags": [
       "六级"
@@ -28772,6 +29250,7 @@
   },
   {
     "word": "illuminate",
+    "translation": "vt.  照亮； 启发， 启迪； 阐明， 说明",
     "count": 2,
     "tags": [
       "SAT",
@@ -28822,6 +29301,7 @@
   },
   {
     "word": "unsurpassed",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28874,6 +29354,7 @@
   },
   {
     "word": "uncontrollable",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -28926,6 +29407,7 @@
   },
   {
     "word": "affiliate",
+    "translation": "n. 联号；隶属的机构等 v. 使附属；接纳；使紧密联系",
     "count": 2,
     "tags": [
       "SAT",
@@ -28980,6 +29462,7 @@
   },
   {
     "word": "preach",
+    "translation": "vi. 讲道， 布道 vt. 宣讲；竭力鼓吹， 宣传， 说教",
     "count": 2,
     "tags": [
       "六级",
@@ -29035,6 +29518,7 @@
   },
   {
     "word": "materialistic",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29075,6 +29559,7 @@
   },
   {
     "word": "consumerism",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29115,6 +29600,7 @@
   },
   {
     "word": "redundancy",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29160,6 +29646,7 @@
   },
   {
     "word": "thrift",
+    "translation": "n. 节俭；节约；[植] 海石竹",
     "count": 2,
     "tags": [
       "托福",
@@ -29206,6 +29693,7 @@
   },
   {
     "word": "mythical",
+    "translation": "adj. 神话的, 虚构的",
     "count": 2,
     "tags": [
       "托福"
@@ -29257,6 +29745,7 @@
   },
   {
     "word": "trek",
+    "translation": "n&v.  艰苦跋涉",
     "count": 2,
     "tags": [
       "托福"
@@ -29308,6 +29797,7 @@
   },
   {
     "word": "holodeck",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29360,6 +29850,7 @@
   },
   {
     "word": "sensory",
+    "translation": "adj.  感觉的， 感官的",
     "count": 2,
     "tags": [
       "托福"
@@ -29411,6 +29902,7 @@
   },
   {
     "word": "simulate",
+    "translation": "v. 模仿；假装；冒充 adj. 模仿的；假装的",
     "count": 2,
     "tags": [
       "六级",
@@ -29464,6 +29956,7 @@
   },
   {
     "word": "irrational",
+    "translation": "adj. 不合理的；无理性的；荒谬的 n. [数] 无理数",
     "count": 2,
     "tags": [
       "SAT",
@@ -29518,6 +30011,7 @@
   },
   {
     "word": "gizmo",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29567,6 +30061,7 @@
   },
   {
     "word": "neuroscientist",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29623,6 +30118,7 @@
   },
   {
     "word": "triple",
+    "translation": "adj. 三倍的；三方的 n. 三倍数；三个一组 v. 增至三倍",
     "count": 2,
     "tags": [
       "SAT",
@@ -29671,6 +30167,7 @@
   },
   {
     "word": "gloom",
+    "translation": "n. 昏暗， 阴暗； 忧郁， 沮丧",
     "count": 2,
     "tags": [
       "六级"
@@ -29716,6 +30213,7 @@
   },
   {
     "word": "iraq",
+    "translation": "n. 伊拉克共和国",
     "count": 2,
     "tags": [
       "托福"
@@ -29767,6 +30265,7 @@
   },
   {
     "word": "sizable",
+    "translation": "adj. 相当大的",
     "count": 2,
     "tags": [
       "托福"
@@ -29818,6 +30317,7 @@
   },
   {
     "word": "dishonor",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29863,6 +30363,7 @@
   },
   {
     "word": "entrench",
+    "translation": "v. 确立，牢固；用壕沟围住；挖掘",
     "count": 2,
     "tags": [
       "SAT",
@@ -29915,6 +30416,7 @@
   },
   {
     "word": "spymaster",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -29964,6 +30466,7 @@
   },
   {
     "word": "pastime",
+    "translation": "n. 消遣， 娱乐",
     "count": 2,
     "tags": [
       "六级",
@@ -30016,6 +30519,7 @@
   },
   {
     "word": "splash",
+    "translation": "vt. 溅湿某人， 泼 n. 溅， 飞溅声；引人注目的事物",
     "count": 2,
     "tags": [
       "六级",
@@ -30069,6 +30573,7 @@
   },
   {
     "word": "remold",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -30118,6 +30623,7 @@
   },
   {
     "word": "paraphrase",
+    "translation": "n. 释义；解释；意译 v. 释义",
     "count": 2,
     "tags": [
       "SAT",
@@ -30168,6 +30674,7 @@
   },
   {
     "word": "allegation",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -30217,6 +30724,7 @@
   },
   {
     "word": "vaccine",
+    "translation": "n. 疫苗；牛痘苗 adj. 疫苗的；牛痘的",
     "count": 2,
     "tags": [
       "SAT",
@@ -30268,6 +30776,7 @@
   },
   {
     "word": "unchallenged",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -30319,6 +30828,7 @@
   },
   {
     "word": "citizenry",
+    "translation": "n. 公民成市民(集合称)",
     "count": 2,
     "tags": [
       "托福"
@@ -30371,6 +30881,7 @@
   },
   {
     "word": "vicious",
+    "translation": "adj. 恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的 n. (Vicious)人名；(英)维舍斯",
     "count": 2,
     "tags": [
       "SAT",
@@ -30421,6 +30932,7 @@
   },
   {
     "word": "supersystems",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -30472,6 +30984,7 @@
   },
   {
     "word": "heighten",
+    "translation": "v. 提高；增高；加强；使更显著",
     "count": 2,
     "tags": [
       "六级",
@@ -30522,6 +31035,7 @@
   },
   {
     "word": "consolidation",
+    "translation": "n. 巩固, 合并",
     "count": 2,
     "tags": [
       "托福"
@@ -30571,6 +31085,7 @@
   },
   {
     "word": "disintegrate",
+    "translation": "v. 分裂成小片，瓦解",
     "count": 2,
     "tags": [
       "托福"
@@ -30623,6 +31138,7 @@
   },
   {
     "word": "inability",
+    "translation": "n. 无能, 无力",
     "count": 2,
     "tags": [
       "托福"
@@ -30672,6 +31188,7 @@
   },
   {
     "word": "dazzlingly",
+    "translation": "adv. 灿烂地, 耀眼地",
     "count": 2,
     "tags": [
       "托福"
@@ -30723,6 +31240,7 @@
   },
   {
     "word": "encompass",
+    "translation": "v.  包围， 环绕； 包含或包括某事物",
     "count": 2,
     "tags": [
       "SAT",
@@ -30775,6 +31293,7 @@
   },
   {
     "word": "anthropological",
+    "translation": "adj. 人类学的,人类学上的",
     "count": 2,
     "tags": [
       "托福"
@@ -30826,6 +31345,7 @@
   },
   {
     "word": "delinquency",
+    "translation": "n.  行为不良； 过失， 失职",
     "count": 2,
     "tags": [
       "托福"
@@ -30878,6 +31398,7 @@
   },
   {
     "word": "penalize",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -30929,6 +31450,7 @@
   },
   {
     "word": "essence",
+    "translation": "n. 本质， 实质， 要素； 精髓， 精华",
     "count": 2,
     "tags": [
       "SAT",
@@ -30983,6 +31505,7 @@
   },
   {
     "word": "simultaneously",
+    "translation": "adv. 同步地，同时地",
     "count": 2,
     "tags": [
       "SAT",
@@ -31036,6 +31559,7 @@
   },
   {
     "word": "insidious",
+    "translation": "adj. 阴险的；隐伏的；暗中为害的；狡猾的",
     "count": 2,
     "tags": [
       "SAT"
@@ -31085,6 +31609,7 @@
   },
   {
     "word": "halve",
+    "translation": "v. 二等分；把……减半 n. (Halve)人名；(芬)哈尔韦",
     "count": 2,
     "tags": [
       "SAT",
@@ -31136,6 +31661,7 @@
   },
   {
     "word": "humiliation",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -31181,6 +31707,7 @@
   },
   {
     "word": "humiliate",
+    "translation": "v. 羞辱；使…丢脸；耻辱",
     "count": 2,
     "tags": [
       "SAT",
@@ -31232,6 +31759,7 @@
   },
   {
     "word": "longtime",
+    "translation": "adj. (已持续)长时间的 adv. 长久地",
     "count": 2,
     "tags": [
       "托福"
@@ -31284,6 +31812,7 @@
   },
   {
     "word": "manhattan",
+    "translation": "n. 曼哈顿岛(美国纽约一区)",
     "count": 2,
     "tags": [
       "托福"
@@ -31333,6 +31862,7 @@
   },
   {
     "word": "predominantly",
+    "translation": "adv. 主要地, 占优势地",
     "count": 2,
     "tags": [
       "六级",
@@ -31385,6 +31915,7 @@
   },
   {
     "word": "broke",
+    "translation": "n. 掮客, 经纪人",
     "count": 2,
     "tags": [
       "托福"
@@ -31438,6 +31969,7 @@
   },
   {
     "word": "upside",
+    "translation": "n. 上边,上部",
     "count": 2,
     "tags": [
       "托福"
@@ -31487,6 +32019,7 @@
   },
   {
     "word": "distaste",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -31538,6 +32071,7 @@
   },
   {
     "word": "manipulate",
+    "translation": "v. 操纵，控制；(熟练地)使用，操作；(巧妙地)处理",
     "count": 2,
     "tags": [
       "六级",
@@ -31592,6 +32126,7 @@
   },
   {
     "word": "ponder",
+    "translation": "v. 仔细考虑；衡量 n. (Ponder)人名；(英)庞德",
     "count": 2,
     "tags": [
       "SAT",
@@ -31647,6 +32182,7 @@
   },
   {
     "word": "theorize",
+    "translation": "v. 建立理论或学说；推理",
     "count": 2,
     "tags": [
       "SAT",
@@ -31701,6 +32237,7 @@
   },
   {
     "word": "assimilate",
+    "translation": "vi. 被吸收， 被消化； 被同化 vt. 吸收，消化；使同化",
     "count": 2,
     "tags": [
       "SAT",
@@ -31751,6 +32288,7 @@
   },
   {
     "word": "bizarre",
+    "translation": "adj.  奇形怪状的， 古怪可笑的， 怪诞的",
     "count": 2,
     "tags": [
       "SAT",
@@ -31799,6 +32337,7 @@
   },
   {
     "word": "hypothesis",
+    "translation": "n. 假说， 假设； 【逻】 前提",
     "count": 2,
     "tags": [
       "SAT",
@@ -31853,6 +32392,7 @@
   },
   {
     "word": "insensitivity",
+    "translation": "n. 感觉迟钝,不灵敏性",
     "count": 2,
     "tags": [
       "托福"
@@ -31902,6 +32442,7 @@
   },
   {
     "word": "stimulus",
+    "translation": "n. 促进(因素),刺激(物)",
     "count": 2,
     "tags": [
       "SAT",
@@ -31956,6 +32497,7 @@
   },
   {
     "word": "georgia",
+    "translation": "n. (美)乔治亚州",
     "count": 2,
     "tags": [
       "托福"
@@ -32007,6 +32549,7 @@
   },
   {
     "word": "enlist",
+    "translation": "v.  征募； 从军， 参军； 谋取",
     "count": 2,
     "tags": [
       "SAT",
@@ -32059,6 +32602,7 @@
   },
   {
     "word": "correlation",
+    "translation": "n. 相关，关联",
     "count": 2,
     "tags": [
       "六级",
@@ -32109,6 +32653,7 @@
   },
   {
     "word": "insignificant",
+    "translation": "adj. 无关紧要的,  可忽略的",
     "count": 2,
     "tags": [
       "SAT",
@@ -32160,6 +32705,7 @@
   },
   {
     "word": "neural",
+    "translation": "adj. 神经的；神经系统的；背的；神经中枢的 n. (Neural)人名；(捷)诺伊拉尔",
     "count": 2,
     "tags": [
       "SAT"
@@ -32205,6 +32751,7 @@
   },
   {
     "word": "limbic",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -32254,6 +32801,7 @@
   },
   {
     "word": "prefrontal",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -32305,6 +32853,7 @@
   },
   {
     "word": "cortex",
+    "translation": "n. [解剖] 皮质；树皮；果皮",
     "count": 2,
     "tags": [
       "SAT",
@@ -32357,6 +32906,7 @@
   },
   {
     "word": "recur",
+    "translation": "adj.  往复的， 反复的， 再次发生的",
     "count": 2,
     "tags": [
       "SAT",
@@ -32409,6 +32959,7 @@
   },
   {
     "word": "susceptible",
+    "translation": "adj.  易受感染的； 易受影响的； 过敏的； 感情丰富的； 能经受…的， 容许…的",
     "count": 2,
     "tags": [
       "SAT",
@@ -32463,6 +33014,7 @@
   },
   {
     "word": "aspire",
+    "translation": "v. (to，after)渴望，追求，有志于",
     "count": 2,
     "tags": [
       "SAT",
@@ -32516,6 +33068,7 @@
   },
   {
     "word": "regrettable",
+    "translation": "adj. 可惜的, 遗憾的",
     "count": 2,
     "tags": [
       "托福"
@@ -32565,6 +33118,7 @@
   },
   {
     "word": "genre",
+    "translation": "n. 类型；种类；体裁；样式；流派；风俗画 adj. 风俗画的；以日常情景为主题的",
     "count": 2,
     "tags": [
       "SAT",
@@ -32618,6 +33172,7 @@
   },
   {
     "word": "liveliness",
+    "translation": "n. 活泼",
     "count": 2,
     "tags": [
       "托福"
@@ -32663,6 +33218,7 @@
   },
   {
     "word": "modesty",
+    "translation": "n. 谦逊；端庄",
     "count": 2,
     "tags": [
       "六级"
@@ -32714,6 +33270,7 @@
   },
   {
     "word": "interprovincial",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -32765,6 +33322,7 @@
   },
   {
     "word": "ideology",
+    "translation": "n. 意识形态，(政治或社会的)思想意识",
     "count": 2,
     "tags": [
       "六级",
@@ -32818,6 +33376,7 @@
   },
   {
     "word": "duplication",
+    "translation": "n. 复制品",
     "count": 2,
     "tags": [
       "六级"
@@ -32869,6 +33428,7 @@
   },
   {
     "word": "documentary",
+    "translation": "adj. 文件的，文献的；记录的，纪实的 n.  纪录片",
     "count": 2,
     "tags": [
       "六级",
@@ -32922,6 +33482,7 @@
   },
   {
     "word": "discourse",
+    "translation": "vi.  讲述， 论述 n.  演讲； 论文； 话语",
     "count": 2,
     "tags": [
       "SAT",
@@ -32976,6 +33537,7 @@
   },
   {
     "word": "intermarriage",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -33027,6 +33589,7 @@
   },
   {
     "word": "superstar",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -33072,6 +33635,7 @@
   },
   {
     "word": "turbulent",
+    "translation": "adj. 骚乱的，混乱的；狂暴的；吵闹的；激流的，湍流的",
     "count": 2,
     "tags": [
       "六级",
@@ -33123,6 +33687,7 @@
   },
   {
     "word": "deteriorate",
+    "translation": "v.  变坏， 恶化； 变质",
     "count": 2,
     "tags": [
       "SAT",
@@ -33175,6 +33740,7 @@
   },
   {
     "word": "sandal",
+    "translation": "n. 凉鞋, 檀香",
     "count": 2,
     "tags": [
       "托福"
@@ -33220,6 +33786,7 @@
   },
   {
     "word": "detach",
+    "translation": "v. 分开, 分离, 分遣, 派遣(军队)",
     "count": 2,
     "tags": [
       "SAT",
@@ -33274,6 +33841,7 @@
   },
   {
     "word": "prehistoric",
+    "translation": "adj.  史前的； 陈旧的",
     "count": 2,
     "tags": [
       "托福"
@@ -33325,6 +33893,7 @@
   },
   {
     "word": "extinction",
+    "translation": "n. 灭绝；消失；消灭；废止",
     "count": 2,
     "tags": [
       "SAT",
@@ -33377,6 +33946,7 @@
   },
   {
     "word": "prey",
+    "translation": "vi. 捕食； 折磨， 使烦恼 n. 被捕食的动物，捕获物；受害者",
     "count": 2,
     "tags": [
       "六级",
@@ -33430,6 +34000,7 @@
   },
   {
     "word": "sonar",
+    "translation": "n. 声纳；声波定位仪（等于asdic）",
     "count": 2,
     "tags": [
       "SAT",
@@ -33483,6 +34054,7 @@
   },
   {
     "word": "outlive",
+    "translation": "v. 比…活得长；比…经久；经受住；渡过…而存在",
     "count": 2,
     "tags": [
       "SAT",
@@ -33536,6 +34108,7 @@
   },
   {
     "word": "weird",
+    "translation": "adj. 怪异的；不可思议的；超自然的 n. （苏格兰）命运；预言",
     "count": 2,
     "tags": [
       "六级",
@@ -33587,6 +34160,7 @@
   },
   {
     "word": "bummer",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -33636,6 +34210,7 @@
   },
   {
     "word": "eater",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -33688,6 +34263,7 @@
   },
   {
     "word": "distasteful",
+    "translation": "adj.  令人反感的， 讨厌的； 味道不佳的",
     "count": 2,
     "tags": [
       "托福"
@@ -33739,6 +34315,7 @@
   },
   {
     "word": "ohio",
+    "translation": "n. 俄亥俄州(美国州名)",
     "count": 2,
     "tags": [
       "托福"
@@ -33784,6 +34361,7 @@
   },
   {
     "word": "slot",
+    "translation": "v. 把…纳入其中； 使有位置； 把…放入狭长开口中 n. 狭缝， 狭槽；位置； 空位",
     "count": 2,
     "tags": [
       "六级",
@@ -33837,6 +34415,7 @@
   },
   {
     "word": "patronize",
+    "translation": "v.  以高人一等的态度对待； 光顾； 赞助， 资助",
     "count": 2,
     "tags": [
       "托福"
@@ -33888,6 +34467,7 @@
   },
   {
     "word": "toll",
+    "translation": "n. 通行费；代价；钟声；伤亡人数 v. 征收；敲钟",
     "count": 2,
     "tags": [
       "SAT",
@@ -33936,6 +34516,7 @@
   },
   {
     "word": "akin",
+    "translation": "adj. 类似的；同类的；同族的 n. (Akin)人名；(土、瑞典、尼日利)阿金；(匈)奥金；(英)埃金",
     "count": 2,
     "tags": [
       "SAT",
@@ -33989,6 +34570,7 @@
   },
   {
     "word": "wager",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -34038,6 +34620,7 @@
   },
   {
     "word": "compulsive",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -34089,6 +34672,7 @@
   },
   {
     "word": "analogous",
+    "translation": "adj. 类似的；[昆] 同功的；可比拟的",
     "count": 2,
     "tags": [
       "SAT",
@@ -34140,6 +34724,7 @@
   },
   {
     "word": "sovereign",
+    "translation": "adj. 拥有最高统治权的， 至高无上的；独立自主的， 具有独立主权的  < n. 君主， 元首；统治",
     "count": 2,
     "tags": [
       "六级",
@@ -34191,6 +34776,7 @@
   },
   {
     "word": "catholicism",
+    "translation": "n.  天主教义、 信仰及组织； 天主教",
     "count": 2,
     "tags": [
       "SAT"
@@ -34240,6 +34826,7 @@
   },
   {
     "word": "egalitarian",
+    "translation": "adj. 平等主义的 n. 平等主义；平等主义者",
     "count": 2,
     "tags": [
       "SAT",
@@ -34293,6 +34880,7 @@
   },
   {
     "word": "incidentally",
+    "translation": "adv. 顺便提及地， 顺便提一句",
     "count": 2,
     "tags": [
       "六级",
@@ -34343,6 +34931,7 @@
   },
   {
     "word": "mania",
+    "translation": "n. [医]颠狂, 狂躁, 癖好, 狂热",
     "count": 2,
     "tags": [
       "托福"
@@ -34388,6 +34977,7 @@
   },
   {
     "word": "encode",
+    "translation": "v. 把编码",
     "count": 2,
     "tags": [
       "托福"
@@ -34437,6 +35027,7 @@
   },
   {
     "word": "biographical",
+    "translation": "adj. 传记的,传记体的",
     "count": 2,
     "tags": [
       "托福"
@@ -34488,6 +35079,7 @@
   },
   {
     "word": "assertion",
+    "translation": "n. 断言，声明；主张，要求；坚持；认定",
     "count": 2,
     "tags": [
       "SAT"
@@ -34535,6 +35127,7 @@
   },
   {
     "word": "query",
+    "translation": "n. 疑问，质问；疑问号 ；[计] 查询 v. 询问；对……表示疑问",
     "count": 2,
     "tags": [
       "SAT",
@@ -34581,6 +35174,7 @@
   },
   {
     "word": "elude",
+    "translation": "v.  不记得， 不理解； 躲避， 逃避",
     "count": 2,
     "tags": [
       "SAT"
@@ -34633,6 +35227,7 @@
   },
   {
     "word": "genetics",
+    "translation": "n.  遗传学",
     "count": 2,
     "tags": [
       "托福",
@@ -34686,6 +35281,7 @@
   },
   {
     "word": "analytical",
+    "translation": "adj. 分析的； 分解的",
     "count": 2,
     "tags": [
       "六级",
@@ -34738,6 +35334,7 @@
   },
   {
     "word": "earner",
+    "translation": "n. 赚钱的人",
     "count": 2,
     "tags": [
       "托福"
@@ -34786,6 +35383,7 @@
   },
   {
     "word": "disruption",
+    "translation": "n. 分裂",
     "count": 2,
     "tags": [
       "托福"
@@ -34835,6 +35433,7 @@
   },
   {
     "word": "demographic",
+    "translation": "adj. 人口统计学的；人口学的",
     "count": 2,
     "tags": [
       "SAT",
@@ -34885,6 +35484,7 @@
   },
   {
     "word": "fallout",
+    "translation": "n. 辐射微尘, 原子尘, 附带结果",
     "count": 2,
     "tags": [
       "托福"
@@ -34930,6 +35530,7 @@
   },
   {
     "word": "outweigh",
+    "translation": "v. 比…重（在重量上）；比…重要；比…有价值",
     "count": 2,
     "tags": [
       "SAT",
@@ -34981,6 +35582,7 @@
   },
   {
     "word": "compliance",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -35026,6 +35628,7 @@
   },
   {
     "word": "overshadow",
+    "translation": "v. 使失色；使阴暗；遮阴；夺去…的光彩",
     "count": 2,
     "tags": [
       "SAT",
@@ -35072,6 +35675,7 @@
   },
   {
     "word": "downside",
+    "translation": "n.  缺点， 负面； 底侧； 下降趋势",
     "count": 2,
     "tags": [
       "托福"
@@ -35121,6 +35725,7 @@
   },
   {
     "word": "gratification",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -35168,6 +35773,7 @@
   },
   {
     "word": "renowned",
+    "translation": "adj. 有名的, 有声誉的",
     "count": 2,
     "tags": [
       "托福"
@@ -35213,6 +35819,7 @@
   },
   {
     "word": "psychiatrist",
+    "translation": "n. 精神科医生， 精神病专家",
     "count": 2,
     "tags": [
       "六级"
@@ -35264,6 +35871,7 @@
   },
   {
     "word": "trivial",
+    "translation": "adj. 琐碎的； 无足轻重的  <",
     "count": 2,
     "tags": [
       "SAT",
@@ -35315,6 +35923,7 @@
   },
   {
     "word": "posture",
+    "translation": "vi. 摆出姿势， 装模作样 n. 姿势， 体态；看法， 态度",
     "count": 2,
     "tags": [
       "六级",
@@ -35367,6 +35976,7 @@
   },
   {
     "word": "modification",
+    "translation": "n. 更改, 修改",
     "count": 2,
     "tags": [
       "六级",
@@ -35415,6 +36025,7 @@
   },
   {
     "word": "reconsider",
+    "translation": "v.  重新考虑， 重新审议",
     "count": 2,
     "tags": [
       "SAT"
@@ -35464,6 +36075,7 @@
   },
   {
     "word": "unchanged",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -35516,6 +36128,7 @@
   },
   {
     "word": "transplant",
+    "translation": "v. 移植；迁移；使移居 n. 移植；移植器官；被移植物；移居者",
     "count": 2,
     "tags": [
       "SAT",
@@ -35570,6 +36183,7 @@
   },
   {
     "word": "infancy",
+    "translation": "n.  幼年； 初期",
     "count": 2,
     "tags": [
       "托福"
@@ -35619,6 +36233,7 @@
   },
   {
     "word": "hamper",
+    "translation": "v. 妨碍；束缚；使困累 n. 食盒，食篮；阻碍物",
     "count": 2,
     "tags": [
       "SAT",
@@ -35671,6 +36286,7 @@
   },
   {
     "word": "congressional",
+    "translation": "adj.  立法机构的； 代表大会的； 国会的",
     "count": 2,
     "tags": [
       "托福"
@@ -35719,6 +36335,7 @@
   },
   {
     "word": "crab",
+    "translation": "n. 螃蟹；蟹肉；脾气乖戾的人；起重机 v. 抱怨；破坏；使偏航",
     "count": 2,
     "tags": [
       "六级",
@@ -35772,6 +36389,7 @@
   },
   {
     "word": "autobiography",
+    "translation": "n. 自传；自传文学",
     "count": 2,
     "tags": [
       "SAT",
@@ -35825,6 +36443,7 @@
   },
   {
     "word": "perpetuate",
+    "translation": "v. 使不朽；保持 adj. 长存的",
     "count": 2,
     "tags": [
       "SAT",
@@ -35875,6 +36494,7 @@
   },
   {
     "word": "paternal",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -35926,6 +36546,7 @@
   },
   {
     "word": "paternity",
+    "translation": "n. 父权， 父子关系",
     "count": 2,
     "tags": [
       "六级"
@@ -35977,6 +36598,7 @@
   },
   {
     "word": "kit",
+    "translation": "n. 成套工具，成套用品；配套元件 vt. 装备",
     "count": 2,
     "tags": [
       "六级",
@@ -36032,6 +36654,7 @@
   },
   {
     "word": "lineage",
+    "translation": "n.  宗系， 世系， 血统",
     "count": 2,
     "tags": [
       "托福"
@@ -36077,6 +36700,7 @@
   },
   {
     "word": "overlap",
+    "translation": "v. 部分重叠； 部分相同 n. 重叠， 重叠的部分",
     "count": 2,
     "tags": [
       "SAT",
@@ -36125,6 +36749,7 @@
   },
   {
     "word": "craftsman",
+    "translation": "n.  能工巧匠， 手艺人， 工艺师",
     "count": 2,
     "tags": [
       "托福"
@@ -36176,6 +36801,7 @@
   },
   {
     "word": "groundbreaking",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -36225,6 +36851,7 @@
   },
   {
     "word": "diffusionism",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -36274,6 +36901,7 @@
   },
   {
     "word": "pottery",
+    "translation": "n.  陶器； 陶器厂， 制陶作坊； 制陶工艺， 陶器制造术",
     "count": 2,
     "tags": [
       "托福"
@@ -36326,6 +36954,7 @@
   },
   {
     "word": "etc",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -36378,6 +37007,7 @@
   },
   {
     "word": "plateau",
+    "translation": "vi.  保持稳定水平 n. 高原；稳定期，停滞期",
     "count": 2,
     "tags": [
       "六级",
@@ -36429,6 +37059,7 @@
   },
   {
     "word": "newsprint",
+    "translation": "n.  新闻纸",
     "count": 2,
     "tags": [
       "托福"
@@ -36480,6 +37111,7 @@
   },
   {
     "word": "guardian",
+    "translation": "n. 监护人； 守卫者， 保护者",
     "count": 2,
     "tags": [
       "六级"
@@ -36532,6 +37164,7 @@
   },
   {
     "word": "prose",
+    "translation": "n. 散文；单调 adj. 散文的；平凡的；乏味的 vi. 写散文；乏味地讲话 vt. 把…写成散文",
     "count": 2,
     "tags": [
       "六级",
@@ -36585,6 +37218,7 @@
   },
   {
     "word": "toxic",
+    "translation": "adj.  有毒的， 因中毒引起的",
     "count": 2,
     "tags": [
       "SAT",
@@ -36639,6 +37273,7 @@
   },
   {
     "word": "unfavorable",
+    "translation": "adj.  相反的； 不适宜的， 不顺利的； 令人不快的",
     "count": 2,
     "tags": [
       "SAT"
@@ -36691,6 +37326,7 @@
   },
   {
     "word": "misinterpret",
+    "translation": "v. 曲解，误解",
     "count": 2,
     "tags": [
       "SAT",
@@ -36742,6 +37378,7 @@
   },
   {
     "word": "backyard",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -36791,6 +37428,7 @@
   },
   {
     "word": "acclaim",
+    "translation": "v. 称赞；为…喝彩，向…欢呼 n. 欢呼，喝彩；称赞",
     "count": 2,
     "tags": [
       "SAT",
@@ -36840,6 +37478,7 @@
   },
   {
     "word": "intricacy",
+    "translation": "n. 错综复杂；",
     "count": 2,
     "tags": [
       "六级"
@@ -36891,6 +37530,7 @@
   },
   {
     "word": "rake",
+    "translation": "v. 搜索；用耙子耙；掠过，擦过 n. 耙子；斜度；钱耙；放荡的人，浪子",
     "count": 2,
     "tags": [
       "托福",
@@ -36937,6 +37577,7 @@
   },
   {
     "word": "wholesaler",
+    "translation": "n. 批发商",
     "count": 2,
     "tags": [
       "托福"
@@ -36984,6 +37625,7 @@
   },
   {
     "word": "biotic",
+    "translation": "adj. 有关生命的,生物的",
     "count": 2,
     "tags": [
       "托福"
@@ -37033,6 +37675,7 @@
   },
   {
     "word": "flora",
+    "translation": "n. [罗神]花神",
     "count": 2,
     "tags": [
       "托福"
@@ -37082,6 +37725,7 @@
   },
   {
     "word": "fauna",
+    "translation": "n.  动物群",
     "count": 2,
     "tags": [
       "托福"
@@ -37131,6 +37775,7 @@
   },
   {
     "word": "impair",
+    "translation": "vt. 损害， 损伤； 削弱； 减少",
     "count": 2,
     "tags": [
       "SAT",
@@ -37186,6 +37831,7 @@
   },
   {
     "word": "subconscious",
+    "translation": "adj. 潜意识的；下意识的 n. 潜在意识；下意识心理活动",
     "count": 2,
     "tags": [
       "SAT",
@@ -37233,6 +37879,7 @@
   },
   {
     "word": "sober",
+    "translation": "adj. 冷静的，清醒的；未醉的 v. 使严肃；使醒酒，使清醒 n. (Sober)人名；(英)索伯",
     "count": 2,
     "tags": [
       "SAT",
@@ -37288,6 +37935,7 @@
   },
   {
     "word": "formidable",
+    "translation": "adj. 可怕的， 令人敬畏的 A <；强大的； 难以应付的",
     "count": 2,
     "tags": [
       "SAT",
@@ -37336,6 +37984,7 @@
   },
   {
     "word": "concertgoers",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37387,6 +38036,7 @@
   },
   {
     "word": "incur",
+    "translation": "vt.  招致， 招惹， 遭受",
     "count": 2,
     "tags": [
       "六级",
@@ -37438,6 +38088,7 @@
   },
   {
     "word": "abound",
+    "translation": "vi.  富于； 大量存在； 充满",
     "count": 2,
     "tags": [
       "托福",
@@ -37488,6 +38139,7 @@
   },
   {
     "word": "headhunter",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37537,6 +38189,7 @@
   },
   {
     "word": "adhere",
+    "translation": "vi. 黏附， 附着； 遵守； 坚持； 追随， 支持",
     "count": 2,
     "tags": [
       "SAT",
@@ -37591,6 +38244,7 @@
   },
   {
     "word": "poach",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37640,6 +38294,7 @@
   },
   {
     "word": "alleviate",
+    "translation": "v. 减轻，缓和，缓解(痛苦等)",
     "count": 2,
     "tags": [
       "SAT",
@@ -37695,6 +38350,7 @@
   },
   {
     "word": "bullock",
+    "translation": "n.  阉牛； 一岁半以下的小公牛",
     "count": 2,
     "tags": [
       "SAT"
@@ -37746,6 +38402,7 @@
   },
   {
     "word": "parenthood",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37791,6 +38448,7 @@
   },
   {
     "word": "professionalise",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37836,6 +38494,7 @@
   },
   {
     "word": "biographer",
+    "translation": "n. 传记作者",
     "count": 2,
     "tags": [
       "托福"
@@ -37888,6 +38547,7 @@
   },
   {
     "word": "prone",
+    "translation": "adj. 俯卧的；有…倾向的，易于…的 n. (Prone)人名；(意、法)普罗内",
     "count": 2,
     "tags": [
       "六级",
@@ -37941,6 +38601,7 @@
   },
   {
     "word": "lovelife",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -37992,6 +38653,7 @@
   },
   {
     "word": "renege",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38043,6 +38705,7 @@
   },
   {
     "word": "abide",
+    "translation": "v. 忍受，容忍；停留；遵守",
     "count": 2,
     "tags": [
       "六级",
@@ -38096,6 +38759,7 @@
   },
   {
     "word": "reactor",
+    "translation": "n. [化工] 反应器；[核] 反应堆；起反应的人",
     "count": 2,
     "tags": [
       "SAT",
@@ -38150,6 +38814,7 @@
   },
   {
     "word": "enrage",
+    "translation": "v. 激怒；使暴怒",
     "count": 2,
     "tags": [
       "SAT"
@@ -38197,6 +38862,7 @@
   },
   {
     "word": "patchwork",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38249,6 +38915,7 @@
   },
   {
     "word": "managerial",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38301,6 +38968,7 @@
   },
   {
     "word": "defy",
+    "translation": "v. 藐视；公然反抗；挑衅；使落空 n. 挑战；对抗",
     "count": 2,
     "tags": [
       "六级",
@@ -38351,6 +39019,7 @@
   },
   {
     "word": "notoriously",
+    "translation": "adv. 臭名昭著地, 众所周知地",
     "count": 2,
     "tags": [
       "六级",
@@ -38397,6 +39066,7 @@
   },
   {
     "word": "cellphone",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38448,6 +39118,7 @@
   },
   {
     "word": "advent",
+    "translation": "n. 到来；出现；基督降临；基督降临节",
     "count": 2,
     "tags": [
       "SAT",
@@ -38499,6 +39170,7 @@
   },
   {
     "word": "embed",
+    "translation": "vt. 把…嵌入， 扎牢； 使深留脑中",
     "count": 2,
     "tags": [
       "六级",
@@ -38553,6 +39225,7 @@
   },
   {
     "word": "unification",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38605,6 +39278,7 @@
   },
   {
     "word": "feverish",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38650,6 +39324,7 @@
   },
   {
     "word": "indictment",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38695,6 +39370,7 @@
   },
   {
     "word": "turnaround",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38746,6 +39422,7 @@
   },
   {
     "word": "inventory",
+    "translation": "n. 详细目录；存货清单， 物品清单， 库存物品",
     "count": 2,
     "tags": [
       "六级",
@@ -38799,6 +39476,7 @@
   },
   {
     "word": "vanity",
+    "translation": "n. 虚荣心；空虚；浮华；无价值的东西",
     "count": 2,
     "tags": [
       "考研"
@@ -38848,6 +39526,7 @@
   },
   {
     "word": "obsession",
+    "translation": "n. 牵挂， 惦念；迷住， 入迷； 困扰；萦绕于心的事物或人；固执的念头 <",
     "count": 2,
     "tags": [
       "托福",
@@ -38901,6 +39580,7 @@
   },
   {
     "word": "browser",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38952,6 +39632,7 @@
   },
   {
     "word": "misplace",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -38999,6 +39680,7 @@
   },
   {
     "word": "arc",
+    "translation": "n. 弧（度）；弧光（全称electric arc）；弧形物；天穹 adj. 圆弧的；反三角函数的 v. 形成电弧；走弧线",
     "count": 2,
     "tags": [
       "SAT",
@@ -39053,6 +39735,7 @@
   },
   {
     "word": "robust",
+    "translation": "adj. 强健的；健康的；粗野的；粗鲁的",
     "count": 2,
     "tags": [
       "SAT",
@@ -39105,6 +39788,7 @@
   },
   {
     "word": "sedition",
+    "translation": "n. 暴动；煽动性的言论或行为；妨害治安",
     "count": 2,
     "tags": [
       "SAT"
@@ -39156,6 +39840,7 @@
   },
   {
     "word": "enact",
+    "translation": "v.  制定法律， 颁布； 扮演",
     "count": 2,
     "tags": [
       "SAT",
@@ -39206,6 +39891,7 @@
   },
   {
     "word": "mindset",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39255,6 +39941,7 @@
   },
   {
     "word": "composure",
+    "translation": "n.  镇静， 沉着",
     "count": 2,
     "tags": [
       "SAT"
@@ -39304,6 +39991,7 @@
   },
   {
     "word": "unfeasible",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39344,6 +40032,7 @@
   },
   {
     "word": "clarity",
+    "translation": "n. 清楚，明晰；透明",
     "count": 2,
     "tags": [
       "SAT",
@@ -39398,6 +40087,7 @@
   },
   {
     "word": "eligible",
+    "translation": "adj. 合格的，合适的；符合条件的；有资格当选的 n. 合格者；适任者；有资格者",
     "count": 2,
     "tags": [
       "SAT",
@@ -39450,6 +40140,7 @@
   },
   {
     "word": "subsidise",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39501,6 +40192,7 @@
   },
   {
     "word": "extraordinarily",
+    "translation": "adv. 非常地，特别地",
     "count": 2,
     "tags": [
       "六级",
@@ -39553,6 +40245,7 @@
   },
   {
     "word": "indulge",
+    "translation": "vi. 沉溺， 纵容自己， 肆意从事 vt. 使沉溺于，满足；纵容，迁就",
     "count": 2,
     "tags": [
       "六级",
@@ -39606,6 +40299,7 @@
   },
   {
     "word": "governmental",
+    "translation": "adj. 政府的",
     "count": 2,
     "tags": [
       "托福"
@@ -39658,6 +40352,7 @@
   },
   {
     "word": "guild",
+    "translation": "n. 协会， 行会",
     "count": 2,
     "tags": [
       "托福",
@@ -39699,6 +40394,7 @@
   },
   {
     "word": "benefactor",
+    "translation": "n.  恩人； 捐助者； 赠送者； 赞助人",
     "count": 2,
     "tags": [
       "SAT"
@@ -39744,6 +40440,7 @@
   },
   {
     "word": "quo",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39795,6 +40492,7 @@
   },
   {
     "word": "boson",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39846,6 +40544,7 @@
   },
   {
     "word": "unworthy",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -39891,6 +40590,7 @@
   },
   {
     "word": "aerial",
+    "translation": "adj.  航空的； 生活在空气中的， 空气的； 高耸的 n. 天线",
     "count": 2,
     "tags": [
       "SAT",
@@ -39947,6 +40647,7 @@
   },
   {
     "word": "sift",
+    "translation": "v. 筛，过滤",
     "count": 2,
     "tags": [
       "六级",
@@ -39999,6 +40700,7 @@
   },
   {
     "word": "metaphysical",
+    "translation": "adj. 形而上学的, 纯粹哲学的",
     "count": 2,
     "tags": [
       "托福"
@@ -40050,6 +40752,7 @@
   },
   {
     "word": "immunity",
+    "translation": "n.  免疫力； 保护； 免除， 豁免",
     "count": 2,
     "tags": [
       "托福"
@@ -40101,6 +40804,7 @@
   },
   {
     "word": "disruptive",
+    "translation": "adj. 使破裂的, 分裂性的",
     "count": 2,
     "tags": [
       "托福"
@@ -40152,6 +40856,7 @@
   },
   {
     "word": "majestic",
+    "translation": "adj. 雄伟的，壮丽的",
     "count": 2,
     "tags": [
       "托福"
@@ -40203,6 +40908,7 @@
   },
   {
     "word": "voter",
+    "translation": "n. 投票者",
     "count": 2,
     "tags": [
       "托福"
@@ -40252,6 +40958,7 @@
   },
   {
     "word": "nobility",
+    "translation": "n. 高贵,贵族",
     "count": 2,
     "tags": [
       "托福"
@@ -40303,6 +41010,7 @@
   },
   {
     "word": "arrestee",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40354,6 +41062,7 @@
   },
   {
     "word": "domain",
+    "translation": "n. 领域， 范围； 领地， 势力范围",
     "count": 2,
     "tags": [
       "SAT",
@@ -40402,6 +41111,7 @@
   },
   {
     "word": "manuscript",
+    "translation": "n. [图情] 手稿；原稿 adj. 手写的",
     "count": 2,
     "tags": [
       "六级",
@@ -40452,6 +41162,7 @@
   },
   {
     "word": "unsettle",
+    "translation": "v. 使动摇；使不安定；使心神不宁",
     "count": 2,
     "tags": [
       "SAT",
@@ -40500,6 +41211,7 @@
   },
   {
     "word": "conspire",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40552,6 +41264,7 @@
   },
   {
     "word": "unacknowledged",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40601,6 +41314,7 @@
   },
   {
     "word": "textual",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40646,6 +41360,7 @@
   },
   {
     "word": "overcrowd",
+    "translation": "v. 过度拥挤",
     "count": 2,
     "tags": [
       "托福"
@@ -40698,6 +41413,7 @@
   },
   {
     "word": "colonist",
+    "translation": "n. 殖民地居民,殖民者",
     "count": 2,
     "tags": [
       "六级",
@@ -40748,6 +41464,7 @@
   },
   {
     "word": "remarry",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40793,6 +41510,7 @@
   },
   {
     "word": "ultra",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -40833,6 +41551,7 @@
   },
   {
     "word": "runway",
+    "translation": "n. 飞机跑道, 斜坡跑道, 河道",
     "count": 2,
     "tags": [
       "托福"
@@ -40884,6 +41603,7 @@
   },
   {
     "word": "impinge",
+    "translation": "v. 撞击；侵犯",
     "count": 2,
     "tags": [
       "SAT",
@@ -40934,6 +41654,7 @@
   },
   {
     "word": "intangible",
+    "translation": "adj. 无形的，触摸不到的；难以理解的",
     "count": 2,
     "tags": [
       "SAT"
@@ -40986,6 +41707,7 @@
   },
   {
     "word": "rip",
+    "translation": "vt. 扯破， 撕坏 n. 裂口， 裂缝 A",
     "count": 2,
     "tags": [
       "六级",
@@ -41033,6 +41755,7 @@
   },
   {
     "word": "netherlands",
+    "translation": "n. 荷兰[国家]",
     "count": 2,
     "tags": [
       "托福"
@@ -41084,6 +41807,7 @@
   },
   {
     "word": "enviable",
+    "translation": "adj. 值得羡慕的",
     "count": 2,
     "tags": [
       "六级"
@@ -41133,6 +41857,7 @@
   },
   {
     "word": "portugal",
+    "translation": "n. 葡萄牙(欧洲西南部国家)",
     "count": 2,
     "tags": [
       "托福"
@@ -41182,6 +41907,7 @@
   },
   {
     "word": "spectrum",
+    "translation": "n. 【物】谱； 光谱； 【电信】频谱；范围， 幅度",
     "count": 2,
     "tags": [
       "SAT",
@@ -41237,6 +41963,7 @@
   },
   {
     "word": "prosecute",
+    "translation": "vi. 起诉， 告发 vt. 对…提起公诉，告发，检举；继续从事",
     "count": 2,
     "tags": [
       "SAT",
@@ -41291,6 +42018,7 @@
   },
   {
     "word": "differentiate",
+    "translation": "vi. 区分，区别 vt. 区分， 区别； 使不同， 使有差异",
     "count": 2,
     "tags": [
       "SAT",
@@ -41345,6 +42073,7 @@
   },
   {
     "word": "prosecution",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -41396,6 +42125,7 @@
   },
   {
     "word": "lenient",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -41448,6 +42178,7 @@
   },
   {
     "word": "malpractice",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -41497,6 +42228,7 @@
   },
   {
     "word": "expedite",
+    "translation": "v. 加快；促进；发出 adj. 畅通的；迅速的；方便的",
     "count": 2,
     "tags": [
       "SAT"
@@ -41548,6 +42280,7 @@
   },
   {
     "word": "divert",
+    "translation": "v. 转移；使…欢娱；使…转向 n. (Divert)人名；(法)迪韦尔",
     "count": 2,
     "tags": [
       "SAT",
@@ -41604,6 +42337,7 @@
   },
   {
     "word": "watcher",
+    "translation": "n. 监票员, 看守人",
     "count": 2,
     "tags": [
       "托福"
@@ -41655,6 +42389,7 @@
   },
   {
     "word": "prioritize",
+    "translation": "v.  划分优先顺序； 优先处理",
     "count": 2,
     "tags": [
       "六级",
@@ -41707,6 +42442,7 @@
   },
   {
     "word": "ecosystem",
+    "translation": "n.  生态系统",
     "count": 2,
     "tags": [
       "SAT",
@@ -41758,6 +42494,7 @@
   },
   {
     "word": "foreshadow",
+    "translation": "v. 预示；成为…的前兆 n. 预兆",
     "count": 2,
     "tags": [
       "SAT",
@@ -41810,6 +42547,7 @@
   },
   {
     "word": "exempt",
+    "translation": "v. 免除；豁免 adj. 被免除的；被豁免的 n. 免税者；被免除义务者",
     "count": 2,
     "tags": [
       "SAT",
@@ -41864,6 +42602,7 @@
   },
   {
     "word": "backdrop",
+    "translation": "n. 背景幕, 背景",
     "count": 2,
     "tags": [
       "托福"
@@ -41911,6 +42650,7 @@
   },
   {
     "word": "comic",
+    "translation": "adj. 喜剧的；滑稽的；有趣的 n. 连环漫画；喜剧演员；滑稽人物",
     "count": 2,
     "tags": [
       "六级",
@@ -41962,6 +42702,7 @@
   },
   {
     "word": "oliver",
+    "translation": "n. 脚踏铁槌",
     "count": 2,
     "tags": [
       "托福"
@@ -42011,6 +42752,7 @@
   },
   {
     "word": "tricky",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42063,6 +42805,7 @@
   },
   {
     "word": "alarmist",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42108,6 +42851,7 @@
   },
   {
     "word": "rethink",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42157,6 +42901,7 @@
   },
   {
     "word": "drastic",
+    "translation": "adj. 严厉的， 极端的； 激烈的， 迅猛的",
     "count": 2,
     "tags": [
       "SAT",
@@ -42212,6 +42957,7 @@
   },
   {
     "word": "upend",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42267,6 +43013,7 @@
   },
   {
     "word": "cyberspace",
+    "translation": "n. 计算机世界， 网络空间",
     "count": 2,
     "tags": [
       "考研"
@@ -42318,6 +43065,7 @@
   },
   {
     "word": "tweet",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42358,6 +43106,7 @@
   },
   {
     "word": "countless",
+    "translation": "adj. 无数的；数不尽的",
     "count": 2,
     "tags": [
       "SAT"
@@ -42410,6 +43159,7 @@
   },
   {
     "word": "algorithm",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42466,6 +43216,7 @@
   },
   {
     "word": "pharma",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42515,6 +43266,7 @@
   },
   {
     "word": "verge",
+    "translation": "v. 濒临，接近；处在边缘 n. 边缘",
     "count": 2,
     "tags": [
       "六级",
@@ -42569,6 +43321,7 @@
   },
   {
     "word": "defer",
+    "translation": "v. 推迟；延期；服从 n. (Defer)人名；(法)德费",
     "count": 2,
     "tags": [
       "SAT",
@@ -42616,6 +43369,7 @@
   },
   {
     "word": "retiree",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42667,6 +43421,7 @@
   },
   {
     "word": "omission",
+    "translation": "n. 疏忽，遗漏；省略；冗长",
     "count": 2,
     "tags": [
       "SAT",
@@ -42717,6 +43472,7 @@
   },
   {
     "word": "stencil",
+    "translation": "n. 模版,蜡纸 v. 用蜡纸印刷",
     "count": 2,
     "tags": [
       "托福"
@@ -42766,6 +43522,7 @@
   },
   {
     "word": "granite",
+    "translation": "adj. 花岗岩，花岗石",
     "count": 2,
     "tags": [
       "六级",
@@ -42820,6 +43577,7 @@
   },
   {
     "word": "medieval",
+    "translation": "adj.  中世纪的， 仿中世纪的； 老式的， 原始的",
     "count": 2,
     "tags": [
       "SAT",
@@ -42868,6 +43626,7 @@
   },
   {
     "word": "playhouse",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -42919,6 +43678,7 @@
   },
   {
     "word": "downhill",
+    "translation": "adv. 下坡；向下",
     "count": 2,
     "tags": [
       "托福"
@@ -42968,6 +43728,7 @@
   },
   {
     "word": "pudding",
+    "translation": "n. 布丁",
     "count": 2,
     "tags": [
       "六级"
@@ -43019,6 +43780,7 @@
   },
   {
     "word": "equity",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43070,6 +43832,7 @@
   },
   {
     "word": "freshman",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43119,6 +43882,7 @@
   },
   {
     "word": "align",
+    "translation": "v.  结盟； 排整齐； 校准； 使一致",
     "count": 2,
     "tags": [
       "托福"
@@ -43170,6 +43934,7 @@
   },
   {
     "word": "sci",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43210,6 +43975,7 @@
   },
   {
     "word": "readjust",
+    "translation": "v.  重新调整， 再调整",
     "count": 2,
     "tags": [
       "SAT",
@@ -43261,6 +44027,7 @@
   },
   {
     "word": "tennis",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43312,6 +44079,7 @@
   },
   {
     "word": "acrylamide",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43363,6 +44131,7 @@
   },
   {
     "word": "endeavour",
+    "translation": "vi. 努力， 尽力； 力图 n. 努力， 尽力； 力图",
     "count": 2,
     "tags": [
       "考研"
@@ -43412,6 +44181,7 @@
   },
   {
     "word": "licence",
+    "translation": "n. 许可证， 执照 vt. 准许， 认可",
     "count": 2,
     "tags": [
       "考研"
@@ -43457,6 +44227,7 @@
   },
   {
     "word": "existential",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43506,6 +44277,7 @@
   },
   {
     "word": "paywalled",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43555,6 +44327,7 @@
   },
   {
     "word": "steadily",
+    "translation": "adv. 稳定地,坚定地",
     "count": 2,
     "tags": [
       "托福"
@@ -43607,6 +44380,7 @@
   },
   {
     "word": "catalyst",
+    "translation": "n.  催化剂， 触媒； 促使变化的人",
     "count": 2,
     "tags": [
       "SAT",
@@ -43658,6 +44432,7 @@
   },
   {
     "word": "norway",
+    "translation": "n. 挪威(北欧国家)",
     "count": 2,
     "tags": [
       "托福"
@@ -43710,6 +44485,7 @@
   },
   {
     "word": "multinational",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43768,6 +44544,7 @@
   },
   {
     "word": "contemplate",
+    "translation": "vt. 盘算， 计议； 思量， 对…周密考虑； 注视， 凝视",
     "count": 2,
     "tags": [
       "六级",
@@ -43819,6 +44596,7 @@
   },
   {
     "word": "levy",
+    "translation": "n. 征收；征兵，征税 v. 征收（税等）；征集（兵等）",
     "count": 2,
     "tags": [
       "SAT",
@@ -43871,6 +44649,7 @@
   },
   {
     "word": "snapshot",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43922,6 +44701,7 @@
   },
   {
     "word": "rationalist",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -43971,6 +44751,7 @@
   },
   {
     "word": "fiber",
+    "translation": "n. 纤维；光纤（等于fibre）",
     "count": 2,
     "tags": [
       "托福",
@@ -44023,6 +44804,7 @@
   },
   {
     "word": "stockbroker",
+    "translation": "n. 股票经理人",
     "count": 2,
     "tags": [
       "六级"
@@ -44074,6 +44856,7 @@
   },
   {
     "word": "sitter",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -44114,6 +44897,7 @@
   },
   {
     "word": "hygiene",
+    "translation": "n.  卫生； 卫生学",
     "count": 2,
     "tags": [
       "托福",
@@ -44164,6 +44948,7 @@
   },
   {
     "word": "optimize",
+    "translation": "vt.  使最优化； 充分利用",
     "count": 2,
     "tags": [
       "托福"
@@ -44215,6 +45000,7 @@
   },
   {
     "word": "watershed",
+    "translation": "n. 分水岭",
     "count": 2,
     "tags": [
       "托福"
@@ -44264,6 +45050,7 @@
   },
   {
     "word": "polymer",
+    "translation": "n. [高分子] 聚合物",
     "count": 2,
     "tags": [
       "SAT",
@@ -44318,6 +45105,7 @@
   },
   {
     "word": "pumpkin",
+    "translation": "n. 南瓜",
     "count": 2,
     "tags": [
       "六级"
@@ -44372,6 +45160,7 @@
   },
   {
     "word": "leaver",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -44421,6 +45210,7 @@
   },
   {
     "word": "rework",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -44472,6 +45262,7 @@
   },
   {
     "word": "zoology",
+    "translation": "n. 动物学, 生态",
     "count": 2,
     "tags": [
       "托福"
@@ -44523,6 +45314,7 @@
   },
   {
     "word": "undisturbed",
+    "translation": "adj. 未受干扰的",
     "count": 2,
     "tags": [
       "托福"
@@ -44574,6 +45366,7 @@
   },
   {
     "word": "misrepresent",
+    "translation": "v. 歪曲，误传；不合适地代表",
     "count": 2,
     "tags": [
       "SAT"
@@ -44623,6 +45416,7 @@
   },
   {
     "word": "caravan",
+    "translation": "n. 旅行队,商队, 大篷车",
     "count": 2,
     "tags": [
       "托福"
@@ -44674,6 +45468,7 @@
   },
   {
     "word": "hampshire",
+    "translation": "n. 汉普郡(英国南部之一郡)",
     "count": 2,
     "tags": [
       "托福"
@@ -44725,6 +45520,7 @@
   },
   {
     "word": "vacancy",
+    "translation": "n.  空房间； 空位， 空缺； 空虚",
     "count": 2,
     "tags": [
       "托福"
@@ -44774,6 +45570,7 @@
   },
   {
     "word": "coalition",
+    "translation": "n. 结合体， 同盟； 结合， 联合",
     "count": 2,
     "tags": [
       "SAT",
@@ -44828,6 +45625,7 @@
   },
   {
     "word": "registration",
+    "translation": "n. 注册，登记",
     "count": 2,
     "tags": [
       "六级"
@@ -44880,6 +45678,7 @@
   },
   {
     "word": "cartel",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -44932,6 +45731,7 @@
   },
   {
     "word": "intrusive",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -44977,6 +45777,7 @@
   },
   {
     "word": "blacksmith",
+    "translation": "n. 锻工, 铁匠",
     "count": 2,
     "tags": [
       "六级",
@@ -45027,6 +45828,7 @@
   },
   {
     "word": "virginian",
+    "translation": "n. 弗吉尼亚州的人",
     "count": 2,
     "tags": [
       "托福"
@@ -45076,6 +45878,7 @@
   },
   {
     "word": "relocate",
+    "translation": "v. 重新部署",
     "count": 2,
     "tags": [
       "托福"
@@ -45129,6 +45932,7 @@
   },
   {
     "word": "playgroups",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -45182,6 +45986,7 @@
   },
   {
     "word": "maternal",
+    "translation": "adj.  母亲的， 母系的",
     "count": 2,
     "tags": [
       "托福"
@@ -45233,6 +46038,7 @@
   },
   {
     "word": "carer",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -45278,6 +46084,7 @@
   },
   {
     "word": "underwater",
+    "translation": "adj. 在水中生长的",
     "count": 2,
     "tags": [
       "托福"
@@ -45329,6 +46136,7 @@
   },
   {
     "word": "shipwreck",
+    "translation": "n. 船只失事,海难 v. 使失事",
     "count": 2,
     "tags": [
       "六级",
@@ -45375,6 +46183,7 @@
   },
   {
     "word": "streamer",
+    "translation": "",
     "count": 2,
     "tags": [
       "其他"
@@ -45426,6 +46235,7 @@
   },
   {
     "word": "obsolete",
+    "translation": "adj. 废弃的；老式的 n. 废词；陈腐的人 vt. 淘汰；废弃",
     "count": 2,
     "tags": [
       "SAT",
@@ -45480,6 +46290,7 @@
   },
   {
     "word": "shutter",
+    "translation": "n. 快门；百叶窗；关闭物；遮板 v. 为…装百叶窗；以百叶窗遮闭",
     "count": 2,
     "tags": [
       "六级",
@@ -45533,6 +46344,7 @@
   },
   {
     "word": "timer",
+    "translation": "n. [电子] 定时器；计时器；计时员，记时员；跑表；延时调节器",
     "count": 1,
     "tags": [
       "SAT",
@@ -45574,6 +46386,7 @@
   },
   {
     "word": "swarm",
+    "translation": "vi. 云集 v.  密集， 云集； 成群地飞行 n. 群，一大群",
     "count": 1,
     "tags": [
       "托福",
@@ -45622,6 +46435,7 @@
   },
   {
     "word": "stride",
+    "translation": "vi. 大踏步走 n. 大步； 步法， 步态； 进展， 进步",
     "count": 1,
     "tags": [
       "六级",
@@ -45671,6 +46485,7 @@
   },
   {
     "word": "parliamentary",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -45718,6 +46533,7 @@
   },
   {
     "word": "incurably",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -45765,6 +46581,7 @@
   },
   {
     "word": "bulletin",
+    "translation": "n. 简明新闻， 最新消息； 公告， 布告， 公报； 学报， 期刊",
     "count": 1,
     "tags": [
       "六级",
@@ -45814,6 +46631,7 @@
   },
   {
     "word": "loneliness",
+    "translation": "n. 孤独, 寂寞",
     "count": 1,
     "tags": [
       "托福"
@@ -45859,6 +46677,7 @@
   },
   {
     "word": "weary",
+    "translation": "vi. 厌烦， 不耐烦 adj. 疲劳的，疲倦的；使人疲劳的，令人厌倦的",
     "count": 1,
     "tags": [
       "六级",
@@ -45906,6 +46725,7 @@
   },
   {
     "word": "uncommon",
+    "translation": "adj. 不凡的, 难得的",
     "count": 1,
     "tags": [
       "托福"
@@ -45951,6 +46771,7 @@
   },
   {
     "word": "friendliness",
+    "translation": "n. 友谊,友善",
     "count": 1,
     "tags": [
       "托福"
@@ -45996,6 +46817,7 @@
   },
   {
     "word": "interrelate",
+    "translation": "v.  相互关联， 紧密联系",
     "count": 1,
     "tags": [
       "托福"
@@ -46041,6 +46863,7 @@
   },
   {
     "word": "flavor",
+    "translation": "n. 风味，滋味；调味品 vt.  给…调味",
     "count": 1,
     "tags": [
       "六级",
@@ -46088,6 +46911,7 @@
   },
   {
     "word": "aspirin",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46135,6 +46959,7 @@
   },
   {
     "word": "sociable",
+    "translation": "adj.  好交际的， 合群的； 友善的， 友好的",
     "count": 1,
     "tags": [
       "SAT",
@@ -46182,6 +47007,7 @@
   },
   {
     "word": "perceptual",
+    "translation": "adj.  感知的， 知觉的",
     "count": 1,
     "tags": [
       "托福"
@@ -46229,6 +47055,7 @@
   },
   {
     "word": "distortion",
+    "translation": "n. 扭曲, 变形,曲解",
     "count": 1,
     "tags": [
       "六级",
@@ -46277,6 +47104,7 @@
   },
   {
     "word": "hallucination",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46324,6 +47152,7 @@
   },
   {
     "word": "psychedelic",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46371,6 +47200,7 @@
   },
   {
     "word": "drugtakers",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46416,6 +47246,7 @@
   },
   {
     "word": "flap",
+    "translation": "vi. 飘动， 拍动； 振翅 n. 片状垂悬物；飘动，摆动，振动；激动，慌忙状态 vt. 使拍动，使飘动",
     "count": 1,
     "tags": [
       "六级",
@@ -46463,6 +47294,7 @@
   },
   {
     "word": "latitude",
+    "translation": "n. 纬度； 纬度地区； 回旋余地， 自由",
     "count": 1,
     "tags": [
       "六级",
@@ -46510,6 +47342,7 @@
   },
   {
     "word": "verse",
+    "translation": "n. 〔歌曲、诗歌、《圣经》等的〕一节；韵文,诗;诗节,诗句",
     "count": 1,
     "tags": [
       "六级",
@@ -46559,6 +47392,7 @@
   },
   {
     "word": "stockholder",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46604,6 +47438,7 @@
   },
   {
     "word": "objectionable",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46651,6 +47486,7 @@
   },
   {
     "word": "unlimited",
+    "translation": "adj. 无限的；不定的",
     "count": 1,
     "tags": [
       "六级",
@@ -46699,6 +47535,7 @@
   },
   {
     "word": "liken",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46744,6 +47581,7 @@
   },
   {
     "word": "windscreen",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46792,6 +47630,7 @@
   },
   {
     "word": "utilisation",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46837,6 +47676,7 @@
   },
   {
     "word": "uncontested",
+    "translation": "adj. 无争论的, 无异议的",
     "count": 1,
     "tags": [
       "托福"
@@ -46882,6 +47722,7 @@
   },
   {
     "word": "extremist",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -46927,6 +47768,7 @@
   },
   {
     "word": "sentimental",
+    "translation": "adj. 伤感的；多愁善感的；感情用事的；寓有情感的",
     "count": 1,
     "tags": [
       "SAT",
@@ -46975,6 +47817,7 @@
   },
   {
     "word": "displacement",
+    "translation": "n. 取代，位移；[船] 排水量",
     "count": 1,
     "tags": [
       "SAT",
@@ -47025,6 +47868,7 @@
   },
   {
     "word": "populace",
+    "translation": "n. 大众；平民；人口",
     "count": 1,
     "tags": [
       "SAT"
@@ -47070,6 +47914,7 @@
   },
   {
     "word": "momentary",
+    "translation": "adj.  片刻的， 瞬间的， 暂时的",
     "count": 1,
     "tags": [
       "SAT",
@@ -47117,6 +47962,7 @@
   },
   {
     "word": "magnitude",
+    "translation": "n.  大小， 数量； 巨大， 广大； 重要性， 重要程度",
     "count": 1,
     "tags": [
       "SAT",
@@ -47165,6 +48011,7 @@
   },
   {
     "word": "nile",
+    "translation": "n. 尼罗河",
     "count": 1,
     "tags": [
       "托福"
@@ -47212,6 +48059,7 @@
   },
   {
     "word": "advisor",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -47257,6 +48105,7 @@
   },
   {
     "word": "hydroelectric",
+    "translation": "adj. 水力电气的",
     "count": 1,
     "tags": [
       "托福"
@@ -47302,6 +48151,7 @@
   },
   {
     "word": "disjunction",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -47349,6 +48199,7 @@
   },
   {
     "word": "ineptly",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -47396,6 +48247,7 @@
   },
   {
     "word": "blunt",
+    "translation": "adj. 钝的，不锋利的；生硬的；直率的 v. 使迟钝 n. (Blunt)人名；(英)布伦特",
     "count": 1,
     "tags": [
       "SAT",
@@ -47446,6 +48298,7 @@
   },
   {
     "word": "norman",
+    "translation": "n&a. 法国诺曼第人(的)",
     "count": 1,
     "tags": [
       "托福"
@@ -47493,6 +48346,7 @@
   },
   {
     "word": "mathematician",
+    "translation": "n. 数学家",
     "count": 1,
     "tags": [
       "托福"
@@ -47541,6 +48395,7 @@
   },
   {
     "word": "buffalo",
+    "translation": "n. 水牛；水陆坦克",
     "count": 1,
     "tags": [
       "六级",
@@ -47587,6 +48442,7 @@
   },
   {
     "word": "smallpox",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -47634,6 +48490,7 @@
   },
   {
     "word": "manifesto",
+    "translation": "n.  宣言， 声明",
     "count": 1,
     "tags": [
       "托福"
@@ -47681,6 +48538,7 @@
   },
   {
     "word": "scorn",
+    "translation": "n. 轻蔑，鄙视 vt. 轻蔑， 鄙视； 拒绝， 不屑",
     "count": 1,
     "tags": [
       "六级",
@@ -47730,6 +48588,7 @@
   },
   {
     "word": "depletion",
+    "translation": "n. 损耗",
     "count": 1,
     "tags": [
       "托福"
@@ -47775,6 +48634,7 @@
   },
   {
     "word": "ozone",
+    "translation": "n. [化学] 臭氧；新鲜的空气",
     "count": 1,
     "tags": [
       "SAT",
@@ -47822,6 +48682,7 @@
   },
   {
     "word": "epithet",
+    "translation": "n. 绰号, 称号",
     "count": 1,
     "tags": [
       "托福"
@@ -47869,6 +48730,7 @@
   },
   {
     "word": "midwest",
+    "translation": "n. 中西部",
     "count": 1,
     "tags": [
       "托福"
@@ -47916,6 +48778,7 @@
   },
   {
     "word": "enthrone",
+    "translation": "v. 使登基；立…为王；任为主教；崇拜",
     "count": 1,
     "tags": [
       "SAT"
@@ -47961,6 +48824,7 @@
   },
   {
     "word": "nevada",
+    "translation": "n. 内华达州(美国西部内陆州)",
     "count": 1,
     "tags": [
       "托福"
@@ -48008,6 +48872,7 @@
   },
   {
     "word": "overcrowdedness",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48055,6 +48920,7 @@
   },
   {
     "word": "bearable",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48102,6 +48968,7 @@
   },
   {
     "word": "oregon",
+    "translation": "n. 俄勒冈州(美国州名)",
     "count": 1,
     "tags": [
       "托福"
@@ -48149,6 +49016,7 @@
   },
   {
     "word": "alaska",
+    "translation": "n. 阿拉斯加州(美国州名)",
     "count": 1,
     "tags": [
       "托福"
@@ -48194,6 +49062,7 @@
   },
   {
     "word": "discern",
+    "translation": "v.  认出， 发现； 辨别， 识别； 看清楚",
     "count": 1,
     "tags": [
       "SAT",
@@ -48242,6 +49111,7 @@
   },
   {
     "word": "southwestern",
+    "translation": "adj. 西南的, 来自西南的",
     "count": 1,
     "tags": [
       "托福"
@@ -48289,6 +49159,7 @@
   },
   {
     "word": "milestone",
+    "translation": "n.  里程碑， 里程标； 重要事件， 转折点",
     "count": 1,
     "tags": [
       "SAT",
@@ -48335,6 +49206,7 @@
   },
   {
     "word": "coastline",
+    "translation": "n. 海岸线",
     "count": 1,
     "tags": [
       "托福"
@@ -48382,6 +49254,7 @@
   },
   {
     "word": "mutability",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48429,6 +49302,7 @@
   },
   {
     "word": "inconstancy",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48476,6 +49350,7 @@
   },
   {
     "word": "farthest",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48521,6 +49396,7 @@
   },
   {
     "word": "aeronautics",
+    "translation": "n.  航空学； 航空术",
     "count": 1,
     "tags": [
       "SAT"
@@ -48561,6 +49437,7 @@
   },
   {
     "word": "primeval",
+    "translation": "adj. 原始的；初期的（等于primaeval）",
     "count": 1,
     "tags": [
       "SAT",
@@ -48602,6 +49479,7 @@
   },
   {
     "word": "submicroscopic",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48649,6 +49527,7 @@
   },
   {
     "word": "cluster",
+    "translation": "vi. 群集，丛生 n. 串，簇；群，组 vt. 使群集， 集中",
     "count": 1,
     "tags": [
       "六级",
@@ -48696,6 +49575,7 @@
   },
   {
     "word": "superclusters",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48743,6 +49623,7 @@
   },
   {
     "word": "trillionfold",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48790,6 +49671,7 @@
   },
   {
     "word": "antigravity",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48835,6 +49717,7 @@
   },
   {
     "word": "astrophysicist",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -48884,6 +49767,7 @@
   },
   {
     "word": "proclamation",
+    "translation": "n. 公告；宣布；宣告；公布",
     "count": 1,
     "tags": [
       "SAT"
@@ -48931,6 +49815,7 @@
   },
   {
     "word": "luckily",
+    "translation": "adv. 幸运地",
     "count": 1,
     "tags": [
       "托福"
@@ -48976,6 +49861,7 @@
   },
   {
     "word": "misfortune",
+    "translation": "n. 不幸， 厄运， 逆境； 不幸事故， 灾难， 灾祸",
     "count": 1,
     "tags": [
       "SAT",
@@ -49026,6 +49912,7 @@
   },
   {
     "word": "stepladder",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49071,6 +49958,7 @@
   },
   {
     "word": "cape",
+    "translation": "n.  海角， 岬； 斗篷， 披肩",
     "count": 1,
     "tags": [
       "六级",
@@ -49113,6 +50001,7 @@
   },
   {
     "word": "illinois",
+    "translation": "n. 伊利诺斯州(美国州名)",
     "count": 1,
     "tags": [
       "托福"
@@ -49161,6 +50050,7 @@
   },
   {
     "word": "bombard",
+    "translation": "v. 轰炸；炮击 n. 射石炮",
     "count": 1,
     "tags": [
       "SAT",
@@ -49209,6 +50099,7 @@
   },
   {
     "word": "intranet",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49254,6 +50145,7 @@
   },
   {
     "word": "saver",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49299,6 +50191,7 @@
   },
   {
     "word": "uninvited",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49344,6 +50237,7 @@
   },
   {
     "word": "forsake",
+    "translation": "vt.  遗弃， 放弃， 抛弃",
     "count": 1,
     "tags": [
       "SAT",
@@ -49393,6 +50287,7 @@
   },
   {
     "word": "cheery",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49438,6 +50333,7 @@
   },
   {
     "word": "presumptuous",
+    "translation": "adj. 专横的；放肆的；冒昧的",
     "count": 1,
     "tags": [
       "SAT"
@@ -49483,6 +50379,7 @@
   },
   {
     "word": "dubiously",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49523,6 +50420,7 @@
   },
   {
     "word": "reformatory",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49563,6 +50461,7 @@
   },
   {
     "word": "husbandry",
+    "translation": "n.  耕种， 务农， 农牧业",
     "count": 1,
     "tags": [
       "托福"
@@ -49603,6 +50502,7 @@
   },
   {
     "word": "feverishly",
+    "translation": "adv. 兴奋地, 发热地",
     "count": 1,
     "tags": [
       "托福"
@@ -49648,6 +50548,7 @@
   },
   {
     "word": "undiscussed",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49693,6 +50594,7 @@
   },
   {
     "word": "preparedness",
+    "translation": "n. 有准备, 已准备",
     "count": 1,
     "tags": [
       "托福"
@@ -49738,6 +50640,7 @@
   },
   {
     "word": "unquestioned",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49785,6 +50688,7 @@
   },
   {
     "word": "concise",
+    "translation": "adj.  简明的， 简练的",
     "count": 1,
     "tags": [
       "六级",
@@ -49834,6 +50738,7 @@
   },
   {
     "word": "anew",
+    "translation": "adv. 重新, 再",
     "count": 1,
     "tags": [
       "托福"
@@ -49881,6 +50786,7 @@
   },
   {
     "word": "partisan",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -49926,6 +50832,7 @@
   },
   {
     "word": "irony",
+    "translation": "n.  具有讽刺意味的事， 出人意料的事情或情况； 反话， 讽刺， 嘲弄",
     "count": 1,
     "tags": [
       "SAT",
@@ -49974,6 +50881,7 @@
   },
   {
     "word": "unending",
+    "translation": "adj. 不断的, 不断重复的",
     "count": 1,
     "tags": [
       "托福"
@@ -50021,6 +50929,7 @@
   },
   {
     "word": "revere",
+    "translation": "v.  尊敬， 敬畏， 崇敬",
     "count": 1,
     "tags": [
       "SAT",
@@ -50067,6 +50976,7 @@
   },
   {
     "word": "affinity",
+    "translation": "n.  构造相似； 特点相近； 密切关系",
     "count": 1,
     "tags": [
       "SAT",
@@ -50113,6 +51023,7 @@
   },
   {
     "word": "technicist",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50153,6 +51064,7 @@
   },
   {
     "word": "effortless",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50198,6 +51110,7 @@
   },
   {
     "word": "handicap",
+    "translation": "vt. 妨碍， 使不利 n. 缺陷， 残疾 A；障碍， 不利条件",
     "count": 1,
     "tags": [
       "六级",
@@ -50247,6 +51160,7 @@
   },
   {
     "word": "sensational",
+    "translation": "adj.  轰动性的， 引起哗然的， 耸人听闻的； 〈口〉极好的， 绝妙的",
     "count": 1,
     "tags": [
       "SAT",
@@ -50296,6 +51210,7 @@
   },
   {
     "word": "painstaking",
+    "translation": "adj. 艰苦的；勤勉的；小心的 n. 辛苦；勤勉",
     "count": 1,
     "tags": [
       "SAT",
@@ -50344,6 +51259,7 @@
   },
   {
     "word": "tribal",
+    "translation": "adj.  部落的， 宗族的； 种族的",
     "count": 1,
     "tags": [
       "托福"
@@ -50392,6 +51308,7 @@
   },
   {
     "word": "farfetched",
+    "translation": "adj.  牵强的",
     "count": 1,
     "tags": [
       "托福"
@@ -50437,6 +51354,7 @@
   },
   {
     "word": "unhampered",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50485,6 +51403,7 @@
   },
   {
     "word": "lengthen",
+    "translation": "v.  延长， 变长",
     "count": 1,
     "tags": [
       "六级",
@@ -50534,6 +51453,7 @@
   },
   {
     "word": "proposition",
+    "translation": "n. [数] 命题；提议；主题；议题 v. 向…提议；向…求欢",
     "count": 1,
     "tags": [
       "六级",
@@ -50580,6 +51500,7 @@
   },
   {
     "word": "assault",
+    "translation": "n. 攻击；袭击 v. 攻击；袭击",
     "count": 1,
     "tags": [
       "六级",
@@ -50630,6 +51551,7 @@
   },
   {
     "word": "outcry",
+    "translation": "n. 强烈抗议；大声疾呼；尖叫；倒彩",
     "count": 1,
     "tags": [
       "SAT",
@@ -50677,6 +51599,7 @@
   },
   {
     "word": "prewar",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50722,6 +51645,7 @@
   },
   {
     "word": "aimless",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50767,6 +51691,7 @@
   },
   {
     "word": "hypocrisy",
+    "translation": "n.  伪善； 虚伪",
     "count": 1,
     "tags": [
       "SAT",
@@ -50813,6 +51738,7 @@
   },
   {
     "word": "vulgar",
+    "translation": "adj. 粗野的， 下流的；庸俗的， 粗俗的；普通的， 通俗的",
     "count": 1,
     "tags": [
       "SAT",
@@ -50861,6 +51787,7 @@
   },
   {
     "word": "hypocritical",
+    "translation": "adj.  伪善的， 伪君子的",
     "count": 1,
     "tags": [
       "SAT",
@@ -50902,6 +51829,7 @@
   },
   {
     "word": "spectacle",
+    "translation": "n. 景象；场面；奇观；壮观；公开展示；表相，假相 n（复）眼镜",
     "count": 1,
     "tags": [
       "SAT",
@@ -50945,6 +51873,7 @@
   },
   {
     "word": "participatory",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -50985,6 +51914,7 @@
   },
   {
     "word": "unimpressive",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51030,6 +51960,7 @@
   },
   {
     "word": "customary",
+    "translation": "adj. 习惯上的， 惯常的， 合乎习俗的",
     "count": 1,
     "tags": [
       "六级",
@@ -51077,6 +52008,7 @@
   },
   {
     "word": "impractical",
+    "translation": "adj. 不切实际的,不实用的",
     "count": 1,
     "tags": [
       "托福"
@@ -51122,6 +52054,7 @@
   },
   {
     "word": "momentarily",
+    "translation": "adv. 暂时地, 立刻地",
     "count": 1,
     "tags": [
       "托福"
@@ -51162,6 +52095,7 @@
   },
   {
     "word": "wastage",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51202,6 +52136,7 @@
   },
   {
     "word": "unexploited",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51242,6 +52177,7 @@
   },
   {
     "word": "manpower",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51301,6 +52237,7 @@
   },
   {
     "word": "illogical",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51346,6 +52283,7 @@
   },
   {
     "word": "improbable",
+    "translation": "adj. 不大可能的, 不像会发生的, 似不可信的",
     "count": 1,
     "tags": [
       "托福"
@@ -51391,6 +52329,7 @@
   },
   {
     "word": "connotation",
+    "translation": "n. 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等）",
     "count": 1,
     "tags": [
       "SAT"
@@ -51436,6 +52375,7 @@
   },
   {
     "word": "differentiation",
+    "translation": "n. 变异，[生物] 分化；区别",
     "count": 1,
     "tags": [
       "SAT",
@@ -51482,6 +52422,7 @@
   },
   {
     "word": "impoverish",
+    "translation": "v.  使贫穷； 使枯竭",
     "count": 1,
     "tags": [
       "SAT"
@@ -51529,6 +52470,7 @@
   },
   {
     "word": "sovereignty",
+    "translation": "n. 君主, 主权",
     "count": 1,
     "tags": [
       "托福"
@@ -51574,6 +52516,7 @@
   },
   {
     "word": "puzzlement",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51621,6 +52564,7 @@
   },
   {
     "word": "backbone",
+    "translation": "n. 脊梁骨；支柱",
     "count": 1,
     "tags": [
       "托福"
@@ -51668,6 +52612,7 @@
   },
   {
     "word": "metropolitan",
+    "translation": "adj. 大都市的；大主教辖区的；宗主国的 n. 大城市人；大主教；宗主国的公民",
     "count": 1,
     "tags": [
       "六级",
@@ -51715,6 +52660,7 @@
   },
   {
     "word": "upscale",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51762,6 +52708,7 @@
   },
   {
     "word": "inaccuracy",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51807,6 +52754,7 @@
   },
   {
     "word": "reportorial",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51854,6 +52802,7 @@
   },
   {
     "word": "symposium",
+    "translation": "n. 讨论会，座谈会；专题论文集；酒宴，宴会",
     "count": 1,
     "tags": [
       "六级",
@@ -51902,6 +52851,7 @@
   },
   {
     "word": "trustworthy",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51947,6 +52897,7 @@
   },
   {
     "word": "likeliness",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -51994,6 +52945,7 @@
   },
   {
     "word": "inaccurate",
+    "translation": "adj. 不精密的，不准确的",
     "count": 1,
     "tags": [
       "六级",
@@ -52042,6 +52994,7 @@
   },
   {
     "word": "hyperactive",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52087,6 +53040,7 @@
   },
   {
     "word": "underlie",
+    "translation": "adj. 潜在的；根本的；在下面的；优先的 v. 放在…的下面；为…的基础；优先于（underlie的ing形式）",
     "count": 1,
     "tags": [
       "SAT",
@@ -52149,6 +53103,7 @@
   },
   {
     "word": "detrimental",
+    "translation": "adj. 不利的；有害的 n. 有害的人（或物）；不受欢迎的求婚者",
     "count": 1,
     "tags": [
       "SAT"
@@ -52196,6 +53151,7 @@
   },
   {
     "word": "scanty",
+    "translation": "adj. 缺乏的；吝啬的；仅有的；稀疏的",
     "count": 1,
     "tags": [
       "SAT",
@@ -52242,6 +53198,7 @@
   },
   {
     "word": "megamergers",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52287,6 +53244,7 @@
   },
   {
     "word": "lender",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52332,6 +53290,7 @@
   },
   {
     "word": "infringement",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52377,6 +53336,7 @@
   },
   {
     "word": "editorship",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52417,6 +53377,7 @@
   },
   {
     "word": "bestselling",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52457,6 +53418,7 @@
   },
   {
     "word": "gazette",
+    "translation": "n. 报纸, 政府的公报",
     "count": 1,
     "tags": [
       "托福"
@@ -52497,6 +53459,7 @@
   },
   {
     "word": "downshifters",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52537,6 +53500,7 @@
   },
   {
     "word": "futurologist",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52584,6 +53548,7 @@
   },
   {
     "word": "lifelike",
+    "translation": "adj. 栩栩如生的,逼真的",
     "count": 1,
     "tags": [
       "托福"
@@ -52631,6 +53596,7 @@
   },
   {
     "word": "droids",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52676,6 +53642,7 @@
   },
   {
     "word": "breakout",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52721,6 +53688,7 @@
   },
   {
     "word": "pamphlet",
+    "translation": "n.  小册子",
     "count": 1,
     "tags": [
       "SAT",
@@ -52769,6 +53737,7 @@
   },
   {
     "word": "stomp",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -52814,6 +53783,7 @@
   },
   {
     "word": "inedible",
+    "translation": "adj. 不能吃的，不宜食用的",
     "count": 1,
     "tags": [
       "托福"
@@ -52854,6 +53824,7 @@
   },
   {
     "word": "notorious",
+    "translation": "adj. 臭名昭著的， 声名狼藉的； 众所周知的",
     "count": 1,
     "tags": [
       "SAT",
@@ -52897,6 +53868,7 @@
   },
   {
     "word": "disparage",
+    "translation": "v.  蔑视， 贬损； 使失去信誉",
     "count": 1,
     "tags": [
       "SAT"
@@ -52944,6 +53916,7 @@
   },
   {
     "word": "scapegoat",
+    "translation": "n. 替罪羊，替人顶罪者；替身 vt. 使成为…的替罪羊",
     "count": 1,
     "tags": [
       "SAT"
@@ -52989,6 +53962,7 @@
   },
   {
     "word": "cuff",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53029,6 +54003,7 @@
   },
   {
     "word": "unforced",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53074,6 +54049,7 @@
   },
   {
     "word": "understatement",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53119,6 +54095,7 @@
   },
   {
     "word": "impolite",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53164,6 +54141,7 @@
   },
   {
     "word": "godlike",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53209,6 +54187,7 @@
   },
   {
     "word": "compulsion",
+    "translation": "n. 〔难以克制的〕强烈欲望，冲动",
     "count": 1,
     "tags": [
       "SAT"
@@ -53254,6 +54233,7 @@
   },
   {
     "word": "hum",
+    "translation": "v. 哼曲子；发嗡嗡声；忙碌； 活跃， 充满活力 n. 嗡嗡声， 营营声， 嘈杂声",
     "count": 1,
     "tags": [
       "六级",
@@ -53302,6 +54282,7 @@
   },
   {
     "word": "teller",
+    "translation": "n. 讲话的人, 告诉的人",
     "count": 1,
     "tags": [
       "托福"
@@ -53350,6 +54331,7 @@
   },
   {
     "word": "tireless",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53397,6 +54379,7 @@
   },
   {
     "word": "miniaturization",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53442,6 +54425,7 @@
   },
   {
     "word": "micro",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53487,6 +54471,7 @@
   },
   {
     "word": "submillimeter",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53532,6 +54517,7 @@
   },
   {
     "word": "laborsaving",
+    "translation": "adj. 节省劳力的;省力气的",
     "count": 1,
     "tags": [
       "托福"
@@ -53577,6 +54563,7 @@
   },
   {
     "word": "microprocessor",
+    "translation": "n. 微信息处理机",
     "count": 1,
     "tags": [
       "六级",
@@ -53623,6 +54610,7 @@
   },
   {
     "word": "millimeter",
+    "translation": "n. (millimetre)毫米",
     "count": 1,
     "tags": [
       "托福",
@@ -53671,6 +54659,7 @@
   },
   {
     "word": "instantaneously",
+    "translation": "adv. 即刻,突如其来地",
     "count": 1,
     "tags": [
       "托福"
@@ -53719,6 +54708,7 @@
   },
   {
     "word": "quadruple",
+    "translation": "v. 成四倍 adj. 四部分组成的；四倍的 n.  四倍",
     "count": 1,
     "tags": [
       "托福"
@@ -53766,6 +54756,7 @@
   },
   {
     "word": "hemisphere",
+    "translation": "n. 地球的半球； 大脑半球",
     "count": 1,
     "tags": [
       "六级",
@@ -53813,6 +54804,7 @@
   },
   {
     "word": "unchanging",
+    "translation": "adj. 不变的",
     "count": 1,
     "tags": [
       "托福"
@@ -53860,6 +54852,7 @@
   },
   {
     "word": "morphine",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53907,6 +54900,7 @@
   },
   {
     "word": "mediation",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53947,6 +54941,7 @@
   },
   {
     "word": "homicide",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -53994,6 +54989,7 @@
   },
   {
     "word": "undertreatment",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -54039,6 +55035,7 @@
   },
   {
     "word": "ineffectual",
+    "translation": "adj. 无效的，不起作用的；徒劳无益的 n. 无用的人；无一技之长者",
     "count": 1,
     "tags": [
       "SAT"
@@ -54084,6 +55081,7 @@
   },
   {
     "word": "hospice",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -54129,6 +55127,7 @@
   },
   {
     "word": "unconcerned",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
@@ -54169,6 +55168,7 @@
   },
   {
     "word": "presumptively",
+    "translation": "",
     "count": 1,
     "tags": [
       "其他"
