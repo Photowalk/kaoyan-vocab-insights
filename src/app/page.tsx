@@ -81,7 +81,7 @@ export default function KaoyanDashboard() {
     <main className="min-h-screen bg-[#FDFDFD] text-[#002147] selection:bg-[#B89323]/20 flex flex-col">
       <div className="fixed inset-0 opacity-[0.02] pointer-events-none" style={{ backgroundImage: 'radial-gradient(#002147 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
 
-      <div className="relative w-full max-w-[1600px] mx-auto px-4 sm:px-6 py-6 md:px-12 md:py-10 flex flex-col flex-1 h-screen overflow-hidden">
+      <div className="relative w-full max-w-[1600px] mx-auto px-4 sm:px-6 py-6 md:px-12 md:py-10 flex flex-col flex-1">
         {/* Header */}
         <header className="flex-none flex flex-col md:flex-row md:items-center justify-between gap-4 md:gap-8 mb-6 md:mb-10 border-b border-slate-100 pb-6 md:pb-8">
           <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }}>
@@ -106,10 +106,10 @@ export default function KaoyanDashboard() {
           </div>
         </header>
 
-        <div className="flex-1 min-h-0 grid grid-cols-1 lg:grid-cols-12 gap-8 md:gap-12 items-start">
+        <div className="flex-1 grid grid-cols-1 lg:grid-cols-12 gap-8 md:gap-12 items-start">
           
           {/* Left Panel: Search & List */}
-          <div className={`lg:col-span-4 flex flex-col h-full space-y-4 md:space-y-6 ${isMobileDetailOpen ? 'hidden lg:flex' : 'flex'}`}>
+          <div className={`lg:col-span-4 flex flex-col lg:h-[calc(100vh-140px)] lg:sticky lg:top-8 space-y-4 md:space-y-6 ${isMobileDetailOpen ? 'hidden lg:flex' : 'flex'}`}>
             <div className="space-y-4 flex-none">
               <div className="relative group">
                 <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-300 group-focus-within:text-[#B89323] transition-colors" />
@@ -182,7 +182,7 @@ export default function KaoyanDashboard() {
           </div>
 
           {/* Right Panel: Detail View */}
-          <div className={`lg:col-span-8 h-full overflow-y-auto custom-scrollbar pb-6 ${isMobileDetailOpen ? 'block' : 'hidden lg:block'}`}>
+          <div className={`lg:col-span-8 pb-6 ${isMobileDetailOpen ? 'block' : 'hidden lg:block'}`}>
             <AnimatePresence mode="wait">
               {selectedWord ? (
                 <motion.div 
@@ -190,7 +190,7 @@ export default function KaoyanDashboard() {
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, y: -10 }}
-                  className="bg-white rounded-3xl md:rounded-[2rem] p-6 sm:p-10 md:p-14 shadow-2xl shadow-slate-200/40 border border-slate-50 relative overflow-hidden min-h-full"
+                  className="bg-white rounded-3xl md:rounded-[2rem] p-6 sm:p-10 md:p-14 shadow-2xl shadow-slate-200/40 border border-slate-50 relative overflow-hidden"
                 >
                   <div className="absolute top-0 right-0 p-8 md:p-12 opacity-[0.03] pointer-events-none">
                     <BookOpen className="w-32 h-32 md:w-64 md:h-64 -rotate-12" />
@@ -341,8 +341,6 @@ export default function KaoyanDashboard() {
         
         body, html {
           font-family: 'Inter', sans-serif;
-          height: 100%;
-          overflow: hidden;
         }
 
         .font-serif {
