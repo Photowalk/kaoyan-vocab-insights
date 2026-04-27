@@ -280,9 +280,31 @@ export default function KaoyanDashboard() {
                             fillOpacity={1} 
                             fill="url(#colorCount)" 
                             animationDuration={1500}
+                            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                            label={(props: any) => {
+                              const { x, y, value } = props;
+                              if (!value) return null;
+                              return (
+                                <text x={x} y={y - 8} fill={GOLD} fontSize={10} fontWeight={800} textAnchor="middle">
+                                  {value}
+                                </text>
+                              );
+                            }}
                           />
                         </AreaChart>
                       </ResponsiveContainer>
+                    </div>
+
+                    <div className="mt-8 flex flex-wrap gap-2">
+                      {Object.entries(selectedWord.yearly)
+                        .filter(([, count]) => count > 0)
+                        .sort(([yearA], [yearB]) => yearA.localeCompare(yearB))
+                        .map(([year, count]) => (
+                          <div key={year} className="px-3 py-1.5 bg-slate-50/80 border border-slate-100 rounded-xl flex items-center gap-2 shadow-sm transition-colors hover:border-[#B89323]/30">
+                            <span className="text-[10px] font-bold text-slate-400">{year}</span>
+                            <span className="text-[11px] font-black text-[#B89323]">{count}次</span>
+                          </div>
+                        ))}
                     </div>
                   </div>
 
