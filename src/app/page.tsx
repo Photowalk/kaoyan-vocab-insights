@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, AreaChart, Area 
 } from 'recharts';
-import { Search, TrendingUp, Award, Clock, BookOpen, ChevronLeft, Quote, SearchX } from 'lucide-react';
+import { Search, TrendingUp, Award, Clock, BookOpen, ChevronLeft, Quote, SearchX, Network } from 'lucide-react';
 
 interface WordData {
   word: string;
@@ -13,6 +13,7 @@ interface WordData {
   tags: string[];
   yearly: Record<string, number>;
   sentences?: { year: string; text: string }[];
+  collocations?: string[];
 }
 
 const tagColors: Record<string, string> = {
@@ -303,6 +304,23 @@ export default function KaoyanDashboard() {
                         ))}
                     </div>
                   </div>
+
+                  {/* Collocations */}
+                  {selectedWord.collocations && selectedWord.collocations.length > 0 && (
+                    <div className="mb-10 md:mb-12">
+                      <div className="flex items-center gap-2 md:gap-3 mb-4 md:mb-6">
+                        <Network className="w-4 h-4 md:w-5 md:h-5 text-[#B89323]" />
+                        <h4 className="text-[10px] md:text-xs font-black uppercase tracking-[0.1em] md:tracking-[0.2em] text-slate-400">Frequent Collocations</h4>
+                      </div>
+                      <div className="flex flex-wrap gap-2 md:gap-3">
+                        {selectedWord.collocations.map((col, idx) => (
+                          <div key={idx} className="px-4 py-2 bg-[#002147]/[0.03] text-[#002147] border border-slate-100 rounded-full text-xs md:text-sm font-semibold tracking-wide">
+                            <span className="text-[#B89323] opacity-50 mr-1">+</span> {col}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
 
                   {/* Context Sentences */}
                   {selectedWord.sentences && selectedWord.sentences.length > 0 && (
