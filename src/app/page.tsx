@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useMemo, Suspense } from 'react';
+import React, { useState, useEffect, useMemo, useRef, Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
@@ -39,6 +39,7 @@ function DashboardContent() {
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [selectedWord, setSelectedWord] = useState<WordData | null>(null);
   const [loading, setLoading] = useState(true);
+  const detailRef = useRef<HTMLDivElement>(null);
 
   // Derived state: the source of truth is the URL
   const isMobileDetailOpen = !!queryWord;
@@ -69,6 +70,12 @@ function DashboardContent() {
   const handleWordClick = (item: WordData) => {
     setSelectedWord(item); // Instant visual update!
     router.push(`/?w=${item.word}`, { scroll: false }); // Sync URL in background
+    // Scroll to top of detail panel
+    if (detailRef.current) {
+      detailRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   };
 
   const handleBackClick = () => {
@@ -216,7 +223,7 @@ function DashboardContent() {
           </div>
 
           {/* Right Panel: Detail View */}
-          <div className={`lg:col-span-8 pb-6 ${isMobileDetailOpen ? 'block' : 'hidden lg:block'}`}>
+          <div ref={detailRef} className={`lg:col-span-8 pb-6 ${isMobileDetailOpen ? 'block' : 'hidden lg:block'}`}>
             <AnimatePresence mode="popLayout">
               {selectedWord ? (
                 <motion.div 
