@@ -1,7 +1,8 @@
 "use client";
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { 
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, AreaChart, Area 
 } from 'recharts';
@@ -26,7 +27,11 @@ const tagColors: Record<string, string> = {
 
 const GOLD = "#B89323"; // Deepened gold for WCAG contrast
 
-export default function KaoyanDashboard() {
+function DashboardContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const queryWord = searchParams.get('w');
+
   const [data, setData] = useState<WordData[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
@@ -39,10 +44,35 @@ export default function KaoyanDashboard() {
       .then(res => res.json())
       .then(d => {
         setData(d);
-        setSelectedWord(d[0]);
+        // If a word is specified in the URL, select it and open the detail view
+        if (queryWord) {
+          const found = d.find((w: WordData) => w.word === queryWord);
+          if (found) {
+            setSelectedWord(found);
+            setIsMobileDetailOpen(true);
+          } else {
+            setSelectedWord(d[0]);
+          }
+        } else {
+          setSelectedWord(d[0]);
+        }
         setLoading(false);
       });
-  }, []);
+  }, [queryWord]);
+
+  const handleWordClick = (item: WordData) => {
+    // Push state to history instead of just changing local state
+    router.push(`/?w=${item.word}`);
+  };
+
+  const handleBackClick = () => {
+    // Navigate back to the list by removing the word query param or going back in history
+    if (window.history.length > 2) {
+      router.back();
+    } else {
+      router.push('/');
+    }
+  };
 
   const allTags = useMemo(() => {
     const tags = new Set<string>();
@@ -152,10 +182,7 @@ export default function KaoyanDashboard() {
                       layout
                       initial={{ opacity: 0 }}
                       animate={{ opacity: 1 }}
-                      onClick={() => {
-                        setSelectedWord(item);
-                        setIsMobileDetailOpen(true);
-                      }}
+                      onClick={() => handleWordClick(item)}
                       className={`p-4 md:p-5 rounded-2xl cursor-pointer transition-all duration-300 flex items-center justify-between group ${selectedWord?.word === item.word ? 'bg-white shadow-xl md:shadow-2xl shadow-slate-200 border border-[#B89323]/30 ring-1 ring-[#B89323]/10' : 'hover:bg-white hover:shadow-xl hover:shadow-slate-100 border border-transparent'}`}
                     >
                       <div className="space-y-1.5 md:space-y-2">
@@ -196,7 +223,7 @@ export default function KaoyanDashboard() {
                   {/* Sticky Mobile Header */}
                   <div className="sticky top-0 z-10 bg-white/90 backdrop-blur-md pb-4 pt-2 -mt-2 border-b border-slate-100 lg:hidden flex items-center justify-between mb-8">
                     <button 
-                      onClick={() => setIsMobileDetailOpen(false)}
+                      onClick={handleBackClick}
                       className="flex items-center gap-2 text-slate-500 hover:text-[#002147] transition-colors"
                     >
                       <ChevronLeft className="w-5 h-5" />
@@ -377,5 +404,17 @@ export default function KaoyanDashboard() {
         }
       `}</style>
     </main>
+  );
+}
+
+export default function KaoyanDashboard() {
+  return (
+    <Suspense fallback={
+      <div className="flex h-screen items-center justify-center bg-[#FDFDFD]">
+        <div className="w-10 h-10 border-[3px] border-[#002147] border-t-transparent rounded-full animate-spin" />
+      </div>
+    }>
+      <DashboardContent />
+    </Suspense>
   );
 }
